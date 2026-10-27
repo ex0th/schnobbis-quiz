@@ -219,4 +219,4 @@ Der Service Worker versioniert sich selbst: Der Server berechnet beim Start eine
 
 ## Lizenz
 
-Noch offen – Fragen und Grundidee stammen aus dem gemeinsamen Ursprungsprojekt. Schriften: Inter und Montserrat unter SIL Open Font License (`public/fonts/OFL-*.txt`).
+[MIT](LICENSE). Fragen und Grundidee stammen aus dem gemeinsamen Ursprungsprojekt [lenegoeslean/Schnobsi-quiz](https://github.com/lenegoeslean/Schnobsi-quiz). Schriften: Inter und Montserrat unter SIL Open Font License (`public/fonts/OFL-*.txt`).
