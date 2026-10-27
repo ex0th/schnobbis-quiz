@@ -1,0 +1,10 @@
+node_modules
+data-local
+*.db
+*.db-*
+.env
+.git
+.github
+test
+README.md
+docs

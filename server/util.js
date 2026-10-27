@@ -70,7 +70,7 @@ export function answerVariants(solution) {
   for (const part of main.split(/\s*(?:\/|;| oder | bzw\. )\s*/)) variants.add(part);
   for (const m of s.matchAll(/\(([^)]*)\)/g)) {
     const inner = m[1].replace(/\b(auch|gelten lassen|geht auch|zählt auch|offiziell)\b/gi, ' ');
-    for (const part of inner.split(/\s*(?:\/|,|;| oder | und )\s*/)) if (part.trim()) variants.add(part);
+    for (const part of inner.split(/\s*(?:\/|,|;| oder | und |\s[–-]\s)\s*/)) if (part.trim()) variants.add(part);
   }
   // Zahlen mit Tausenderpunkt: „1.440“ → „1440“
   for (const v of [...variants]) if (/^[\d.]+$/.test(v.trim())) variants.add(v.replace(/\./g, ''));
@@ -90,7 +90,9 @@ export function suggestCorrect(given, solution) {
     if (/^\d+$/.test(v) || /^\d+$/.test(g)) continue; // Zahlen müssen exakt passen
     const tol = v.length <= 4 ? 0 : v.length <= 8 ? 1 : 2;
     if (levenshtein(g, v) <= tol) return true;
-    // „Leonardo da Vinci“ vs. „da Vinci“: getippte Antwort deckt ein ganzes Wort der Lösung ab
+    // Zusammenhängender Teil des Namens: „da Vinci“ in „Leonardo da Vinci“
+    if (g.length >= 4 && (' ' + v + ' ').includes(' ' + g + ' ')) return true;
+    // „Leonardo da Vinci“ vs. „Vinci“: getippte Antwort deckt ein ganzes Wort der Lösung ab
     if (g.length >= 4 && v.split(' ').some(w => w.length >= 4 && levenshtein(w, g) <= (w.length <= 6 ? 1 : 2))) return true;
   }
   return false;
