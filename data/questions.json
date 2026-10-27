@@ -1,0 +1,3989 @@
+{
+ "version": 1,
+ "categories": [
+  {
+   "name": "Geografie",
+   "icon": "🌍"
+  },
+  {
+   "name": "Geschichte",
+   "icon": "🏛️"
+  },
+  {
+   "name": "Wissenschaft",
+   "icon": "🧪"
+  },
+  {
+   "name": "Weltall",
+   "icon": "🪐"
+  },
+  {
+   "name": "Natur",
+   "icon": "🌿"
+  },
+  {
+   "name": "Mensch",
+   "icon": "🫀"
+  },
+  {
+   "name": "Kunst",
+   "icon": "🎨"
+  },
+  {
+   "name": "Literatur",
+   "icon": "📚"
+  },
+  {
+   "name": "Musik",
+   "icon": "🎵"
+  },
+  {
+   "name": "Sport",
+   "icon": "⚽"
+  },
+  {
+   "name": "Mathe",
+   "icon": "➗"
+  },
+  {
+   "name": "Sprache",
+   "icon": "💬"
+  },
+  {
+   "name": "Deutschland",
+   "icon": "🇩🇪"
+  },
+  {
+   "name": "Essen & Trinken",
+   "icon": "🍕"
+  },
+  {
+   "name": "Technik",
+   "icon": "💻"
+  }
+ ],
+ "questions": [
+  {
+   "id": 1,
+   "question": "Was ist die Hauptstadt von Australien?",
+   "answer": "Canberra",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 2,
+   "question": "Wer malte die Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "category": "Kunst",
+   "difficulty": 1
+  },
+  {
+   "id": 3,
+   "question": "Was ist das chemische Symbol für Gold?",
+   "answer": "Au",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 4,
+   "question": "Welcher ist der größte Planet unseres Sonnensystems?",
+   "answer": "Jupiter",
+   "category": "Weltall",
+   "difficulty": 1
+  },
+  {
+   "id": 5,
+   "question": "In welchem Jahr fiel die Berliner Mauer?",
+   "answer": "1989",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 6,
+   "question": "Wie viele Kontinente gibt es?",
+   "answer": "7",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 7,
+   "question": "Welcher ist der größte Ozean der Welt?",
+   "answer": "Pazifik",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 8,
+   "question": "Wer schrieb „Faust“?",
+   "answer": "Johann Wolfgang von Goethe",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 9,
+   "question": "Wer entwickelte die Relativitätstheorie?",
+   "answer": "Albert Einstein",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 10,
+   "question": "Welcher ist der höchste Berg der Welt?",
+   "answer": "Mount Everest (8.849 m)",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 11,
+   "question": "In welchem Jahr begann der Zweite Weltkrieg?",
+   "answer": "1939",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 12,
+   "question": "Welches Gas macht den größten Teil der Luft aus?",
+   "answer": "Stickstoff (ca. 78 %)",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 13,
+   "question": "Wer komponierte die „Ode an die Freude“ (9. Sinfonie)?",
+   "answer": "Ludwig van Beethoven",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 14,
+   "question": "Wie viele Bundesländer hat Deutschland?",
+   "answer": "16",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 15,
+   "question": "Welches ist das kleinste Land der Welt?",
+   "answer": "Vatikanstadt",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 16,
+   "question": "Welches Organ produziert Insulin?",
+   "answer": "Bauchspeicheldrüse",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 17,
+   "question": "Wer betrat als erster Mensch den Mond?",
+   "answer": "Neil Armstrong (1969)",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 18,
+   "question": "Welche Sprache spricht man in Brasilien?",
+   "answer": "Portugiesisch",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 19,
+   "question": "Welche Währung hat Japan?",
+   "answer": "Yen",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 20,
+   "question": "Welcher ist der längste Fluss der Welt?",
+   "answer": "Nil (Amazonas auch gelten lassen – je nach Messung umstritten)",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 21,
+   "question": "Wie viele Spieler einer Fußballmannschaft stehen auf dem Feld?",
+   "answer": "11",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 22,
+   "question": "Was ist die Hauptstadt von Kanada?",
+   "answer": "Ottawa",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 23,
+   "question": "Wer erfand in Europa den Buchdruck mit beweglichen Lettern?",
+   "answer": "Johannes Gutenberg",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 24,
+   "question": "Welcher Planet ist der Sonne am nächsten?",
+   "answer": "Merkur",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 25,
+   "question": "Was ist das größte Organ des Menschen?",
+   "answer": "Die Haut",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 26,
+   "question": "In welchem Jahr erreichte Kolumbus Amerika?",
+   "answer": "1492",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 27,
+   "question": "Wer schrieb „Romeo und Julia“?",
+   "answer": "William Shakespeare",
+   "category": "Literatur",
+   "difficulty": 1
+  },
+  {
+   "id": 28,
+   "question": "Was ist die Hauptstadt der Türkei?",
+   "answer": "Ankara",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 29,
+   "question": "Für welches Element steht das Symbol Fe?",
+   "answer": "Eisen",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 30,
+   "question": "Wie viele Minuten hat ein Tag?",
+   "answer": "1.440",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 31,
+   "question": "In welchem Jahr wurde die Bundesrepublik Deutschland gegründet?",
+   "answer": "1949",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 32,
+   "question": "Wer war der erste Bundeskanzler?",
+   "answer": "Konrad Adenauer",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 33,
+   "question": "Welche ist die größte Wüste der Welt?",
+   "answer": "Die Antarktis (Sahara = größte heiße Wüste – Fangfrage!)",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 34,
+   "question": "Wie viele Saiten hat eine normale Gitarre?",
+   "answer": "6",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 35,
+   "question": "Welches ist das größte Tier der Welt?",
+   "answer": "Blauwal",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 36,
+   "question": "Wer malte „Die Sternennacht“?",
+   "answer": "Vincent van Gogh",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 37,
+   "question": "In welcher Stadt steht das Kolosseum?",
+   "answer": "Rom",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 38,
+   "question": "Was ist die Wurzel aus 144?",
+   "answer": "12",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 39,
+   "question": "Welcher ist der größte Kontinent?",
+   "answer": "Asien",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 40,
+   "question": "Wer entwickelte das Periodensystem der Elemente?",
+   "answer": "Dmitri Mendelejew (Lothar Meyer auch gelten lassen)",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 41,
+   "question": "Was ist die Hauptstadt von Japan?",
+   "answer": "Tokio",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 42,
+   "question": "Wie viele Beine hat eine Spinne?",
+   "answer": "8",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 43,
+   "question": "Wer schrieb „Die Verwandlung“?",
+   "answer": "Franz Kafka",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 44,
+   "question": "Welches ist das flächenmäßig größte Land der Welt?",
+   "answer": "Russland",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 45,
+   "question": "Wie viel Grad hat ein rechter Winkel?",
+   "answer": "90°",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 46,
+   "question": "Bei wie viel Grad kocht Wasser auf Meereshöhe?",
+   "answer": "100 °C",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 47,
+   "question": "Wer entdeckte das Penicillin?",
+   "answer": "Alexander Fleming",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 48,
+   "question": "Welcher Planet wird „Roter Planet“ genannt?",
+   "answer": "Mars",
+   "category": "Weltall",
+   "difficulty": 1
+  },
+  {
+   "id": 49,
+   "question": "In welchem Jahr sank die Titanic?",
+   "answer": "1912",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 50,
+   "question": "Wer malte die Decke der Sixtinischen Kapelle?",
+   "answer": "Michelangelo",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 51,
+   "question": "Wie viele Tage hat ein Schaltjahr?",
+   "answer": "366",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 52,
+   "question": "Was ist die Hauptstadt der Schweiz?",
+   "answer": "Bern (offiziell „Bundesstadt“)",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 53,
+   "question": "Wer war der erste Präsident der USA?",
+   "answer": "George Washington",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 54,
+   "question": "Aus welchem Element besteht ein Diamant?",
+   "answer": "Kohlenstoff",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 55,
+   "question": "Wie viele Felder hat ein Schachbrett?",
+   "answer": "64",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 56,
+   "question": "Welcher Ozean liegt zwischen Europa und Amerika?",
+   "answer": "Atlantik",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 57,
+   "question": "Wer komponierte „Die Zauberflöte“?",
+   "answer": "Wolfgang Amadeus Mozart",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 58,
+   "question": "Welches ist das schnellste Landtier?",
+   "answer": "Gepard",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 59,
+   "question": "In welchem Land liegt Machu Picchu?",
+   "answer": "Peru",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 60,
+   "question": "In welchem Jahr endete der Erste Weltkrieg?",
+   "answer": "1918",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 61,
+   "question": "Was ist die Hauptstadt von Portugal?",
+   "answer": "Lissabon",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 62,
+   "question": "Wer schrieb die „Harry Potter“-Bücher?",
+   "answer": "J. K. Rowling",
+   "category": "Literatur",
+   "difficulty": 1
+  },
+  {
+   "id": 63,
+   "question": "Wie viele Planeten hat unser Sonnensystem?",
+   "answer": "8 (Pluto zählt seit 2006 nicht mehr)",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 64,
+   "question": "Welches Metall ist bei Raumtemperatur flüssig?",
+   "answer": "Quecksilber",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 65,
+   "question": "Wer formulierte das Gravitationsgesetz?",
+   "answer": "Isaac Newton",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 66,
+   "question": "In welchem Jahr begann die Französische Revolution?",
+   "answer": "1789",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 67,
+   "question": "Wie viele Farben hat ein Regenbogen (klassisch gezählt)?",
+   "answer": "7",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 68,
+   "question": "Was ist die Hauptstadt von Argentinien?",
+   "answer": "Buenos Aires",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 69,
+   "question": "Wer malte „Der Schrei“?",
+   "answer": "Edvard Munch",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 70,
+   "question": "Welches ist das häufigste Element im Universum?",
+   "answer": "Wasserstoff",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 71,
+   "question": "Wie viele Spieler einer Basketballmannschaft stehen auf dem Feld?",
+   "answer": "5",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 72,
+   "question": "Welches Land hat die Form eines Stiefels?",
+   "answer": "Italien",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 73,
+   "question": "Wer schrieb „Die Räuber“?",
+   "answer": "Friedrich Schiller",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 74,
+   "question": "Was ist die Hauptstadt von Norwegen?",
+   "answer": "Oslo",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 75,
+   "question": "Wie viele Zähne hat ein Erwachsener (inkl. Weisheitszähne)?",
+   "answer": "32",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 76,
+   "question": "Welcher Fluss fließt durch Paris?",
+   "answer": "Seine",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 77,
+   "question": "In welcher Schlacht wurde Napoleon endgültig besiegt?",
+   "answer": "Waterloo (1815)",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 78,
+   "question": "Wie viele Sekunden hat eine Stunde?",
+   "answer": "3.600",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 79,
+   "question": "Welche Blutgruppe gilt als Universalspender?",
+   "answer": "0 negativ",
+   "category": "Mensch",
+   "difficulty": 3
+  },
+  {
+   "id": 80,
+   "question": "In welchem Land stehen die Pyramiden von Gizeh?",
+   "answer": "Ägypten",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 81,
+   "question": "Was ist die Hauptstadt von Schweden?",
+   "answer": "Stockholm",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 82,
+   "question": "Was ist die Hauptstadt von Finnland?",
+   "answer": "Helsinki",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 83,
+   "question": "Wer schrieb „Krieg und Frieden“?",
+   "answer": "Leo Tolstoi",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 84,
+   "question": "Wer schrieb „Don Quijote“?",
+   "answer": "Miguel de Cervantes",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 85,
+   "question": "Für welches Element steht das Symbol Ag?",
+   "answer": "Silber",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 86,
+   "question": "Für welches Element steht das Symbol Na?",
+   "answer": "Natrium",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 87,
+   "question": "Wie viele Beine hat ein Insekt?",
+   "answer": "6",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 88,
+   "question": "Wie viele Arme hat ein Oktopus?",
+   "answer": "8",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 89,
+   "question": "In welchem Jahr endete der Zweite Weltkrieg?",
+   "answer": "1945",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 90,
+   "question": "In welchem Jahr wurde Deutschland wiedervereinigt?",
+   "answer": "1990",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 91,
+   "question": "Wer malte „Die Geburt der Venus“?",
+   "answer": "Sandro Botticelli",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 92,
+   "question": "Wer malte „Das Mädchen mit dem Perlenohrring“?",
+   "answer": "Jan Vermeer",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 93,
+   "question": "Welcher ist der zweitgrößte Planet im Sonnensystem?",
+   "answer": "Saturn",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 94,
+   "question": "Welcher Planet ist am weitesten von der Sonne entfernt?",
+   "answer": "Neptun",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 95,
+   "question": "Wie viele Spieler einer Volleyballmannschaft stehen auf dem Feld?",
+   "answer": "6",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 96,
+   "question": "Wie viele Spieler einer Handballmannschaft stehen auf dem Feld (inkl. Torwart)?",
+   "answer": "7",
+   "category": "Sport",
+   "difficulty": 3
+  },
+  {
+   "id": 97,
+   "question": "In welchem Land steht Angkor Wat?",
+   "answer": "Kambodscha",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 98,
+   "question": "In welchem Land steht das Taj Mahal?",
+   "answer": "Indien",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 99,
+   "question": "Wer komponierte „Die vier Jahreszeiten“?",
+   "answer": "Antonio Vivaldi",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 100,
+   "question": "Wer komponierte „Der Nussknacker“?",
+   "answer": "Pjotr Iljitsch Tschaikowsky",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 101,
+   "question": "Was ist die Hauptstadt von Chile?",
+   "answer": "Santiago de Chile",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 102,
+   "question": "Was ist die Hauptstadt von Peru?",
+   "answer": "Lima",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 103,
+   "question": "Wer gilt als Erfinder des Telefons?",
+   "answer": "Alexander Graham Bell (Philipp Reis auch gelten lassen)",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 104,
+   "question": "Wer baute 1886 das erste Automobil mit Benzinmotor?",
+   "answer": "Carl Benz",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 105,
+   "question": "Welcher ist der größte Knochen des Menschen?",
+   "answer": "Oberschenkelknochen",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 106,
+   "question": "Welcher ist der kleinste Knochen des Menschen?",
+   "answer": "Steigbügel (im Ohr)",
+   "category": "Mensch",
+   "difficulty": 3
+  },
+  {
+   "id": 107,
+   "question": "Wer schrieb „Buddenbrooks“?",
+   "answer": "Thomas Mann",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 108,
+   "question": "Wer schrieb „Die Blechtrommel“?",
+   "answer": "Günter Grass",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 109,
+   "question": "Welcher Fluss fließt durch London?",
+   "answer": "Themse",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 110,
+   "question": "Welcher Fluss fließt durch Wien?",
+   "answer": "Donau",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 111,
+   "question": "In welchem Jahr erklärten die USA ihre Unabhängigkeit?",
+   "answer": "1776",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 112,
+   "question": "In welchem Jahr begann der Erste Weltkrieg?",
+   "answer": "1914",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 113,
+   "question": "Welcher ist der größte Vogel der Welt?",
+   "answer": "Strauß",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 114,
+   "question": "Welcher ist der kleinste Vogel der Welt?",
+   "answer": "Kolibri (genauer: Bienenelfe)",
+   "category": "Natur",
+   "difficulty": 3
+  },
+  {
+   "id": 115,
+   "question": "Wie viele Ecken hat ein Würfel?",
+   "answer": "8",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 116,
+   "question": "Wie viele Kanten hat ein Würfel?",
+   "answer": "12",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 117,
+   "question": "Welche Amtssprache hat Mexiko?",
+   "answer": "Spanisch",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 118,
+   "question": "Welche Amtssprache hat Ägypten?",
+   "answer": "Arabisch",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 119,
+   "question": "In welcher Stadt steht der Schiefe Turm?",
+   "answer": "Pisa",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 120,
+   "question": "In welcher Stadt steht die Sagrada Família?",
+   "answer": "Barcelona",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 121,
+   "question": "Was ist die Hauptstadt von Island?",
+   "answer": "Reykjavík",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 122,
+   "question": "Was ist die Hauptstadt von Ägypten?",
+   "answer": "Kairo",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 123,
+   "question": "Was ist die Hauptstadt von Kenia?",
+   "answer": "Nairobi",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 124,
+   "question": "Was ist die Hauptstadt von Neuseeland?",
+   "answer": "Wellington",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 125,
+   "question": "Was ist die Hauptstadt von Polen?",
+   "answer": "Warschau",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 126,
+   "question": "Auf welchem Kontinent liegt Marokko?",
+   "answer": "Afrika",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 127,
+   "question": "Welcher Kanal verbindet das Mittelmeer mit dem Roten Meer?",
+   "answer": "Suezkanal",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 128,
+   "question": "Welcher ist der größte See, der komplett in Deutschland liegt?",
+   "answer": "Müritz (der Bodensee ist größer, liegt aber in drei Ländern)",
+   "category": "Deutschland",
+   "difficulty": 3
+  },
+  {
+   "id": 129,
+   "question": "Zu welchem Land gehört Grönland?",
+   "answer": "Dänemark (autonomes Gebiet)",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 130,
+   "question": "Wie heißt der höchste Berg Afrikas?",
+   "answer": "Kilimandscharo",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 131,
+   "question": "Welche Stadt wird „Big Apple“ genannt?",
+   "answer": "New York",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 132,
+   "question": "In welchem Land steht die Akropolis?",
+   "answer": "Griechenland",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 133,
+   "question": "An welches Meer grenzt Deutschland im Nordosten (Rügen, Usedom)?",
+   "answer": "Ostsee",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 134,
+   "question": "Welches Gebirge trennt Spanien und Frankreich?",
+   "answer": "Pyrenäen",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 135,
+   "question": "Was ist die Hauptstadt von Ungarn?",
+   "answer": "Budapest",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 136,
+   "question": "Wer wurde 1871 erster Kaiser des Deutschen Kaiserreichs?",
+   "answer": "Wilhelm I.",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 137,
+   "question": "Welche Stadt wurde 79 n. Chr. durch den Vesuv verschüttet?",
+   "answer": "Pompeji",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 138,
+   "question": "Unter welchem Spitznamen ist Kaiserin Elisabeth von Österreich bekannt?",
+   "answer": "Sisi",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 139,
+   "question": "Mit welchem Schiff kamen 1620 die Pilgerväter nach Amerika?",
+   "answer": "Mayflower",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 140,
+   "question": "Wer war der erste Mensch im Weltall?",
+   "answer": "Juri Gagarin (1961)",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 141,
+   "question": "In welchem Jahr wurde Julius Caesar ermordet?",
+   "answer": "44 v. Chr.",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 142,
+   "question": "Welches Volk erbaute Machu Picchu?",
+   "answer": "Die Inka",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 143,
+   "question": "Wer veröffentlichte 1517 die 95 Thesen?",
+   "answer": "Martin Luther",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 144,
+   "question": "In welchem Jahr wurde der Euro als Bargeld eingeführt?",
+   "answer": "2002",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 145,
+   "question": "Welcher Pharao wurde durch sein 1922 entdecktes, fast unberührtes Grab berühmt?",
+   "answer": "Tutanchamun",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 146,
+   "question": "Wie lautet die chemische Formel für Wasser?",
+   "answer": "H₂O",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 147,
+   "question": "Was misst man in Hertz?",
+   "answer": "Frequenz (Schwingungen pro Sekunde)",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 148,
+   "question": "Welches Gas nehmen Pflanzen bei der Fotosynthese auf?",
+   "answer": "Kohlendioxid (CO₂)",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 149,
+   "question": "Bei wie viel Grad Celsius gefriert Wasser?",
+   "answer": "0 °C",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 150,
+   "question": "Wer war die erste Frau, die einen Nobelpreis bekam?",
+   "answer": "Marie Curie (1903)",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 151,
+   "question": "Für welches Element steht das Symbol O?",
+   "answer": "Sauerstoff",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 152,
+   "question": "Wie heißt die Wissenschaft von den Lebewesen?",
+   "answer": "Biologie",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 153,
+   "question": "Wie heißt das Teilchen mit negativer Ladung, das den Atomkern umkreist?",
+   "answer": "Elektron",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 154,
+   "question": "Wie heißt unsere Galaxie?",
+   "answer": "Milchstraße",
+   "category": "Weltall",
+   "difficulty": 1
+  },
+  {
+   "id": 155,
+   "question": "Welcher Planet hat die auffälligsten Ringe?",
+   "answer": "Saturn",
+   "category": "Weltall",
+   "difficulty": 1
+  },
+  {
+   "id": 156,
+   "question": "Welcher Stern ist der Erde am nächsten?",
+   "answer": "Die Sonne (Fangfrage!)",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 157,
+   "question": "Wie viele Tage braucht die Erde für eine Runde um die Sonne?",
+   "answer": "ca. 365 (365,25)",
+   "category": "Weltall",
+   "difficulty": 1
+  },
+  {
+   "id": 158,
+   "question": "Welcher Vogel ist das Wappentier Deutschlands?",
+   "answer": "Adler (Bundesadler)",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 159,
+   "question": "Wie viele Herzen hat ein Oktopus?",
+   "answer": "3",
+   "category": "Natur",
+   "difficulty": 3
+  },
+  {
+   "id": 160,
+   "question": "Welches Säugetier kann richtig fliegen?",
+   "answer": "Fledermaus",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 161,
+   "question": "Wovon ernähren sich Pandas hauptsächlich?",
+   "answer": "Bambus",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 162,
+   "question": "Wie heißt das männliche Huhn?",
+   "answer": "Hahn",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 163,
+   "question": "Welches ist das größte Landtier?",
+   "answer": "Afrikanischer Elefant",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 164,
+   "question": "Wie viele Höcker hat ein Dromedar?",
+   "answer": "1",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 165,
+   "question": "An welchem Baum wachsen Eicheln?",
+   "answer": "Eiche",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 166,
+   "question": "Ist ein Wal ein Fisch oder ein Säugetier?",
+   "answer": "Säugetier",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 167,
+   "question": "Wie viele Kammern hat das menschliche Herz?",
+   "answer": "4",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 168,
+   "question": "Welches Organ filtert das Blut und bildet Urin?",
+   "answer": "Niere",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 169,
+   "question": "Wie heißt der rote Blutfarbstoff?",
+   "answer": "Hämoglobin",
+   "category": "Mensch",
+   "difficulty": 3
+  },
+  {
+   "id": 170,
+   "question": "Wie viele Sinne hat der Mensch (klassisch gezählt)?",
+   "answer": "5",
+   "category": "Mensch",
+   "difficulty": 1
+  },
+  {
+   "id": 171,
+   "question": "Wer malte „Guernica“?",
+   "answer": "Pablo Picasso",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 172,
+   "question": "In welchem Museum hängt die Mona Lisa?",
+   "answer": "Im Louvre (Paris)",
+   "category": "Kunst",
+   "difficulty": 1
+  },
+  {
+   "id": 173,
+   "question": "Wer schuf die berühmte Marmorstatue „David“ in Florenz?",
+   "answer": "Michelangelo",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 174,
+   "question": "Welcher Maler schnitt sich ein Stück seines Ohres ab?",
+   "answer": "Vincent van Gogh",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 175,
+   "question": "Wer schrieb „Der kleine Prinz“?",
+   "answer": "Antoine de Saint-Exupéry",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 176,
+   "question": "Wer schrieb „1984“?",
+   "answer": "George Orwell",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 177,
+   "question": "Wer sammelte die „Kinder- und Hausmärchen“?",
+   "answer": "Die Brüder Grimm",
+   "category": "Literatur",
+   "difficulty": 1
+  },
+  {
+   "id": 178,
+   "question": "Welcher Detektiv wohnt in der Baker Street 221b?",
+   "answer": "Sherlock Holmes",
+   "category": "Literatur",
+   "difficulty": 1
+  },
+  {
+   "id": 179,
+   "question": "Wer schrieb „Effi Briest“?",
+   "answer": "Theodor Fontane",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 180,
+   "question": "Wer schrieb „Der Herr der Ringe“?",
+   "answer": "J. R. R. Tolkien",
+   "category": "Literatur",
+   "difficulty": 1
+  },
+  {
+   "id": 181,
+   "question": "Aus welchem Land kommt die Band ABBA?",
+   "answer": "Schweden",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 182,
+   "question": "Aus wie vielen Linien besteht ein Notensystem?",
+   "answer": "5",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 183,
+   "question": "Welcher berühmte Komponist wurde taub und komponierte trotzdem weiter?",
+   "answer": "Ludwig van Beethoven",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 184,
+   "question": "Aus welcher Stadt stammen die Beatles?",
+   "answer": "Liverpool",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 185,
+   "question": "Welches Instrument hat beim Konzertmodell 47 Saiten und Pedale?",
+   "answer": "Harfe",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 186,
+   "question": "Wie viele Ringe hat das olympische Symbol?",
+   "answer": "5",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 187,
+   "question": "Wie lange dauert ein Fußballspiel regulär?",
+   "answer": "90 Minuten (2 × 45)",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 188,
+   "question": "Wie viele Punkte zählt ein Touchdown im American Football?",
+   "answer": "6",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 189,
+   "question": "In welcher Sportart gibt es ein „Hole-in-One“?",
+   "answer": "Golf",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 190,
+   "question": "Wie heißt das berühmte Rasen-Tennisturnier in London?",
+   "answer": "Wimbledon",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 191,
+   "question": "Wie viele Spieler pro Team sind beim Eishockey gleichzeitig auf dem Eis (inkl. Torwart)?",
+   "answer": "6",
+   "category": "Sport",
+   "difficulty": 3
+  },
+  {
+   "id": 192,
+   "question": "Wo fanden 1896 die ersten Olympischen Spiele der Neuzeit statt?",
+   "answer": "Athen",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 193,
+   "question": "Was ist 7 × 8?",
+   "answer": "56",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 194,
+   "question": "Wie groß ist die Winkelsumme in einem Dreieck?",
+   "answer": "180°",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 195,
+   "question": "Wie lautet die Zahl Pi auf zwei Nachkommastellen?",
+   "answer": "3,14",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 196,
+   "question": "Wie viele Nullen hat eine Million?",
+   "answer": "6",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 197,
+   "question": "Was sind 15 % von 200?",
+   "answer": "30",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 198,
+   "question": "Was heißt „Danke“ auf Italienisch?",
+   "answer": "Grazie",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 199,
+   "question": "Wie viele Buchstaben hat das Alphabet (ohne Ä, Ö, Ü und ß)?",
+   "answer": "26",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 200,
+   "question": "Was bedeutet „Carpe diem“?",
+   "answer": "Nutze den Tag",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 201,
+   "question": "Welche Sprache hat die meisten Muttersprachler der Welt?",
+   "answer": "Chinesisch (Mandarin)",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 202,
+   "question": "Wie heißt das Parlament der Bundesrepublik Deutschland?",
+   "answer": "Bundestag",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 203,
+   "question": "Welche ist die größte Stadt Deutschlands?",
+   "answer": "Berlin",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 204,
+   "question": "Durch welche Großstadt fließt die Isar?",
+   "answer": "München",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 205,
+   "question": "An welchem Datum ist der Tag der Deutschen Einheit?",
+   "answer": "3. Oktober",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 206,
+   "question": "Welches Tor ist das bekannteste Wahrzeichen Berlins?",
+   "answer": "Brandenburger Tor",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 207,
+   "question": "Aus welchem Land stammt die Pizza Margherita?",
+   "answer": "Italien (Neapel)",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 208,
+   "question": "Aus welcher Pflanze wird Tequila hergestellt?",
+   "answer": "Agave",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 209,
+   "question": "Welches ist das teuerste Gewürz der Welt?",
+   "answer": "Safran",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 210,
+   "question": "Aus welchem Land kommt Sushi?",
+   "answer": "Japan",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 211,
+   "question": "Was ist die Hauptzutat von Guacamole?",
+   "answer": "Avocado",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 212,
+   "question": "Aus welchem Getreide wird schottischer Single Malt Whisky gemacht?",
+   "answer": "Gerste",
+   "category": "Essen & Trinken",
+   "difficulty": 3
+  },
+  {
+   "id": 213,
+   "question": "Woraus wird Tofu hergestellt?",
+   "answer": "Sojabohnen",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 214,
+   "question": "Wofür steht „www“?",
+   "answer": "World Wide Web",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 215,
+   "question": "Wer gründete Microsoft zusammen mit Paul Allen?",
+   "answer": "Bill Gates",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 216,
+   "question": "Welche Erfindung machte Thomas Edison besonders berühmt?",
+   "answer": "Die (praxistaugliche) Glühbirne",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 217,
+   "question": "Wofür steht die Abkürzung „PDF“?",
+   "answer": "Portable Document Format",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 218,
+   "question": "Wer gilt als Erfinder des World Wide Web?",
+   "answer": "Tim Berners-Lee",
+   "category": "Technik",
+   "difficulty": 3
+  },
+  {
+   "id": 219,
+   "question": "Wie viele Bits hat ein Byte?",
+   "answer": "8",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 220,
+   "question": "In welchem Jahr kam das erste iPhone auf den Markt?",
+   "answer": "2007",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 221,
+   "question": "Was ist die Hauptstadt von Tschechien?",
+   "answer": "Prag",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 222,
+   "question": "Was ist die Hauptstadt von Rumänien?",
+   "answer": "Bukarest",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 223,
+   "question": "Welcher ist der höchste Berg der Alpen?",
+   "answer": "Mont Blanc",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 224,
+   "question": "Welcher ist der höchste Berg Südamerikas?",
+   "answer": "Aconcagua",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 225,
+   "question": "Wer erfand das Dynamit?",
+   "answer": "Alfred Nobel",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 226,
+   "question": "Wer erfand den Blitzableiter?",
+   "answer": "Benjamin Franklin",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 227,
+   "question": "Wie viele Monde hat der Mars?",
+   "answer": "2 (Phobos und Deimos)",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 228,
+   "question": "Wie viele Monde hat die Venus?",
+   "answer": "0",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 229,
+   "question": "Wie heißt ein junges Pferd?",
+   "answer": "Fohlen",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 230,
+   "question": "Wie heißt ein junges Schaf?",
+   "answer": "Lamm",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 231,
+   "question": "Aus welchem Land stammte der Komponist Frédéric Chopin?",
+   "answer": "Polen",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 232,
+   "question": "Aus welchem Land stammte der Komponist Edvard Grieg?",
+   "answer": "Norwegen",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 233,
+   "question": "In welchem Märchen beißt ein Mädchen in einen vergifteten Apfel?",
+   "answer": "Schneewittchen",
+   "category": "Literatur",
+   "difficulty": 1
+  },
+  {
+   "id": 234,
+   "question": "In welchem Märchen sticht sich die Prinzessin an einer Spindel?",
+   "answer": "Dornröschen",
+   "category": "Literatur",
+   "difficulty": 1
+  },
+  {
+   "id": 235,
+   "question": "Wie lange dauerte der Dreißigjährige Krieg?",
+   "answer": "30 Jahre (1618–1648)",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 236,
+   "question": "Wie lange dauerte der Hundertjährige Krieg?",
+   "answer": "116 Jahre (1337–1453) – Fangfrage!",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 237,
+   "question": "Wie viele Lungenflügel hat der Mensch?",
+   "answer": "2",
+   "category": "Mensch",
+   "difficulty": 1
+  },
+  {
+   "id": 238,
+   "question": "Wie viele Rippen hat der Mensch normalerweise?",
+   "answer": "24 (12 Paare)",
+   "category": "Mensch",
+   "difficulty": 3
+  },
+  {
+   "id": 239,
+   "question": "Für welches Element steht das Symbol K?",
+   "answer": "Kalium",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 240,
+   "question": "Für welches Element steht das Symbol Cu?",
+   "answer": "Kupfer",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 241,
+   "question": "Wie lang ist ein olympisches Schwimmbecken?",
+   "answer": "50 m",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 242,
+   "question": "Wie lang ist eine Runde auf der Leichtathletik-Bahn (innen)?",
+   "answer": "400 m",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 243,
+   "question": "Aus welchem Land stammt die Paella?",
+   "answer": "Spanien",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 244,
+   "question": "Aus welchem Land stammt das Gulasch?",
+   "answer": "Ungarn",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 245,
+   "question": "Wer malte „Die Erschaffung Adams“?",
+   "answer": "Michelangelo",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 246,
+   "question": "Wer malte „Das letzte Abendmahl“?",
+   "answer": "Leonardo da Vinci",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 247,
+   "question": "Was heißt „Guten Morgen“ auf Spanisch?",
+   "answer": "Buenos días",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 248,
+   "question": "Was heißt „Guten Morgen“ auf Französisch?",
+   "answer": "Bonjour",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 249,
+   "question": "Was ist 12 × 12?",
+   "answer": "144",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 250,
+   "question": "Was ist 13 × 13?",
+   "answer": "169",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 251,
+   "question": "Welcher Fluss fließt durch Köln?",
+   "answer": "Rhein",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 252,
+   "question": "Welcher Fluss fließt durch Hamburg?",
+   "answer": "Elbe",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 253,
+   "question": "Wie hieß die Mission der ersten Mondlandung?",
+   "answer": "Apollo 11",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 254,
+   "question": "Wie hieß der erste künstliche Satellit im All (1957)?",
+   "answer": "Sputnik (1)",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 255,
+   "question": "Wer schrieb „Die unendliche Geschichte“?",
+   "answer": "Michael Ende",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 256,
+   "question": "Wer schrieb „Emil und die Detektive“?",
+   "answer": "Erich Kästner",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 257,
+   "question": "Welches ist das größte Raubtier an Land?",
+   "answer": "Eisbär (Kodiakbär auch gelten lassen)",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 258,
+   "question": "Welches ist der größte Fisch der Welt?",
+   "answer": "Walhai",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 259,
+   "question": "Wofür steht die Abkürzung „USB“?",
+   "answer": "Universal Serial Bus",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 260,
+   "question": "Wofür steht die Abkürzung „GPS“?",
+   "answer": "Global Positioning System",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 261,
+   "question": "Was ist die Hauptstadt von Irland?",
+   "answer": "Dublin",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 262,
+   "question": "Was ist die Hauptstadt von Südkorea?",
+   "answer": "Seoul",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 263,
+   "question": "Was ist die Hauptstadt von Thailand?",
+   "answer": "Bangkok",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 264,
+   "question": "Was ist die Hauptstadt von Belgien?",
+   "answer": "Brüssel",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 265,
+   "question": "Was ist die Hauptstadt von Griechenland?",
+   "answer": "Athen",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 266,
+   "question": "Welches Land hat die meisten Einwohner der Welt?",
+   "answer": "Indien (seit 2023, davor China)",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 267,
+   "question": "In welchem Land liegt der Kilimandscharo?",
+   "answer": "Tansania",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 268,
+   "question": "Welche Inselgruppe vor Ecuador ist für ihre Riesenschildkröten bekannt?",
+   "answer": "Galápagos-Inseln",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 269,
+   "question": "Welche Großstadt liegt auf zwei Kontinenten?",
+   "answer": "Istanbul (Europa und Asien)",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 270,
+   "question": "Welcher ist der längste Fluss Europas?",
+   "answer": "Wolga",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 271,
+   "question": "Welche ist die größte Insel der Welt?",
+   "answer": "Grönland",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 272,
+   "question": "Welche berühmten Wasserfälle liegen an der Grenze zwischen USA und Kanada?",
+   "answer": "Niagarafälle",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 273,
+   "question": "In welchem Land liegt die Stadt Timbuktu?",
+   "answer": "Mali",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 274,
+   "question": "Welche italienische Stadt ist für Gondeln und Kanäle bekannt?",
+   "answer": "Venedig",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 275,
+   "question": "Welcher ist der tiefste See der Welt?",
+   "answer": "Baikalsee",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 276,
+   "question": "Wer war der erste römische Kaiser?",
+   "answer": "Augustus",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 277,
+   "question": "In welchem Jahr landeten die Alliierten in der Normandie (D-Day)?",
+   "answer": "1944",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 278,
+   "question": "Welche britische Monarchin regierte am längsten?",
+   "answer": "Elisabeth II. (70 Jahre)",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 279,
+   "question": "Wer war der erste Bundespräsident?",
+   "answer": "Theodor Heuss",
+   "category": "Deutschland",
+   "difficulty": 3
+  },
+  {
+   "id": 280,
+   "question": "Wer leitete ab 1519 die erste Weltumsegelung?",
+   "answer": "Ferdinand Magellan (starb unterwegs, Elcano vollendete sie)",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 281,
+   "question": "Welche Stadt wurde 1945 als erste von einer Atombombe getroffen?",
+   "answer": "Hiroshima",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 282,
+   "question": "Welche antike Stadt wurde der Sage nach mit einem hölzernen Pferd erobert?",
+   "answer": "Troja",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 283,
+   "question": "Wer war von 2005 bis 2021 Bundeskanzlerin?",
+   "answer": "Angela Merkel",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 284,
+   "question": "In welchem Jahr wurde die Berliner Mauer gebaut?",
+   "answer": "1961",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 285,
+   "question": "Welcher Herrscher krönte sich 1804 selbst zum Kaiser der Franzosen?",
+   "answer": "Napoleon Bonaparte",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 286,
+   "question": "Wie lautet die chemische Formel für Kochsalz?",
+   "answer": "NaCl",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 287,
+   "question": "Wie schnell ist Licht ungefähr?",
+   "answer": "ca. 300.000 km pro Sekunde",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 288,
+   "question": "Welches Element hat die Ordnungszahl 1?",
+   "answer": "Wasserstoff",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 289,
+   "question": "In welcher Einheit misst man elektrische Spannung?",
+   "answer": "Volt",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 290,
+   "question": "Wer schrieb „Über die Entstehung der Arten“ (Evolutionstheorie)?",
+   "answer": "Charles Darwin",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 291,
+   "question": "Welche Farbe entsteht, wenn man Blau und Gelb mischt?",
+   "answer": "Grün",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 292,
+   "question": "Wie nennt man den direkten Übergang von fest zu gasförmig?",
+   "answer": "Sublimation",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 293,
+   "question": "Welches ist das härteste natürliche Material?",
+   "answer": "Diamant",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 294,
+   "question": "Welchen pH-Wert hat reines Wasser?",
+   "answer": "7 (neutral)",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 295,
+   "question": "Welcher ist der heißeste Planet im Sonnensystem?",
+   "answer": "Venus (heißer als Merkur – Fangfrage!)",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 296,
+   "question": "Wie lange braucht das Sonnenlicht bis zur Erde?",
+   "answer": "ca. 8 Minuten",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 297,
+   "question": "Wie heißt der größte Mond im Sonnensystem?",
+   "answer": "Ganymed (Jupitermond)",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 298,
+   "question": "Welcher Planet rotiert quasi „auf der Seite liegend“?",
+   "answer": "Uranus",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 299,
+   "question": "Wie heißt das große Weltraumteleskop, das Ende 2021 gestartet ist?",
+   "answer": "James-Webb-Teleskop",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 300,
+   "question": "Wie nennt man Tiere, die nur Pflanzen fressen?",
+   "answer": "Pflanzenfresser (Herbivoren)",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 301,
+   "question": "Welches Tier hat den längsten Hals?",
+   "answer": "Giraffe",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 302,
+   "question": "Wie viele Beine hat ein Hummer?",
+   "answer": "10",
+   "category": "Natur",
+   "difficulty": 3
+  },
+  {
+   "id": 303,
+   "question": "Welche Farbe hat das Blut eines Oktopus?",
+   "answer": "Blau",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 304,
+   "question": "Welcher heimische Nadelbaum wirft im Herbst seine Nadeln ab?",
+   "answer": "Lärche",
+   "category": "Natur",
+   "difficulty": 3
+  },
+  {
+   "id": 305,
+   "question": "Welches ist das schnellste Tier überhaupt (im Sturzflug)?",
+   "answer": "Wanderfalke (über 300 km/h)",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 306,
+   "question": "Welcher Vogel legt die größten Eier?",
+   "answer": "Strauß",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 307,
+   "question": "Ist der Koala ein Bär oder ein Beuteltier?",
+   "answer": "Beuteltier",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 308,
+   "question": "Wie viele Knochen hat ein erwachsener Mensch?",
+   "answer": "206",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 309,
+   "question": "Welcher ist der größte Muskel des Menschen?",
+   "answer": "Großer Gesäßmuskel",
+   "category": "Mensch",
+   "difficulty": 3
+  },
+  {
+   "id": 310,
+   "question": "Welches Vitamin bildet der Körper mithilfe von Sonnenlicht?",
+   "answer": "Vitamin D",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 311,
+   "question": "Wie heißt der farbige Teil des Auges?",
+   "answer": "Iris (Regenbogenhaut)",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 312,
+   "question": "Wie viele Milchzähne hat ein Kind?",
+   "answer": "20",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 313,
+   "question": "Wer malte die berühmte Bilderserie „Seerosen“?",
+   "answer": "Claude Monet",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 314,
+   "question": "Welcher Künstler wurde mit Bildern von Suppendosen berühmt?",
+   "answer": "Andy Warhol",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 315,
+   "question": "Wer malte „Der Kuss“ (1908) mit viel Gold?",
+   "answer": "Gustav Klimt",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 316,
+   "question": "In welcher Stadt steht die Freiheitsstatue?",
+   "answer": "New York",
+   "category": "Kunst",
+   "difficulty": 1
+  },
+  {
+   "id": 317,
+   "question": "Mit welcher Kunstrichtung ist Salvador Dalí verbunden?",
+   "answer": "Surrealismus",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 318,
+   "question": "Wer schrieb „Pippi Langstrumpf“?",
+   "answer": "Astrid Lindgren",
+   "category": "Literatur",
+   "difficulty": 1
+  },
+  {
+   "id": 319,
+   "question": "Wer schrieb „Die Leiden des jungen Werthers“?",
+   "answer": "Johann Wolfgang von Goethe",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 320,
+   "question": "Wer schrieb „Moby Dick“?",
+   "answer": "Herman Melville",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 321,
+   "question": "Wie heißt der Zauberer in „Der Herr der Ringe“?",
+   "answer": "Gandalf",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 322,
+   "question": "Wer schrieb „Der Prozess“?",
+   "answer": "Franz Kafka",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 323,
+   "question": "Wer schrieb „Stolz und Vorurteil“?",
+   "answer": "Jane Austen",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 324,
+   "question": "Wie viele Tasten hat ein normales Klavier?",
+   "answer": "88",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 325,
+   "question": "Welcher Sänger wurde „King of Pop“ genannt?",
+   "answer": "Michael Jackson",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 326,
+   "question": "Welcher Sänger wurde „King of Rock ’n’ Roll“ genannt?",
+   "answer": "Elvis Presley",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 327,
+   "question": "Mit welchem Lied gewann Lena 2010 den Eurovision Song Contest?",
+   "answer": "„Satellite“",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 328,
+   "question": "Wie hieß der Leadsänger der Band Queen?",
+   "answer": "Freddie Mercury",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 329,
+   "question": "Welches Instrument machte Jimi Hendrix berühmt?",
+   "answer": "E-Gitarre",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 330,
+   "question": "Wie oft wurde die deutsche Herren-Nationalmannschaft Fußball-Weltmeister?",
+   "answer": "4-mal (1954, 1974, 1990, 2014)",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 331,
+   "question": "Wie viele Löcher hat ein normaler Golfplatz?",
+   "answer": "18",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 332,
+   "question": "Wie lang ist ein Marathon?",
+   "answer": "42,195 km",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 333,
+   "question": "In welcher Sportart gibt es den „Slam Dunk“?",
+   "answer": "Basketball",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 334,
+   "question": "Wie viele Punkte gibt das „Bullseye“ (Mitte) beim Darts?",
+   "answer": "50",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 335,
+   "question": "In welcher Stadt finden die Olympischen Sommerspiele 2028 statt?",
+   "answer": "Los Angeles",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 336,
+   "question": "Was sind 25 % von 80?",
+   "answer": "20",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 337,
+   "question": "Wie viele Seiten hat ein Oktogon?",
+   "answer": "8",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 338,
+   "question": "Wie nennt man eine Zahl, die nur durch 1 und sich selbst teilbar ist?",
+   "answer": "Primzahl",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 339,
+   "question": "Was ist 2 hoch 10?",
+   "answer": "1.024",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 340,
+   "question": "Wie viele Minuten hat eine Woche?",
+   "answer": "10.080",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 341,
+   "question": "Welche römische Zahl steht für 100?",
+   "answer": "C",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 342,
+   "question": "Was heißt „Schmetterling“ auf Englisch?",
+   "answer": "Butterfly",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 343,
+   "question": "Was bedeutet „Veni, vidi, vici“?",
+   "answer": "Ich kam, ich sah, ich siegte",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 344,
+   "question": "Wie nennt man ein Wort, das vorwärts und rückwärts gleich gelesen wird (z. B. „Otto“)?",
+   "answer": "Palindrom",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 345,
+   "question": "Was ruft man in Schweden zum Anstoßen?",
+   "answer": "Skål",
+   "category": "Sprache",
+   "difficulty": 3
+  },
+  {
+   "id": 346,
+   "question": "Welches ist das flächenmäßig größte Bundesland?",
+   "answer": "Bayern",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 347,
+   "question": "Welches ist das kleinste Bundesland?",
+   "answer": "Bremen",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 348,
+   "question": "Was ist die Hauptstadt von Sachsen?",
+   "answer": "Dresden",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 349,
+   "question": "Auf welcher Insel liegt Westerland?",
+   "answer": "Sylt",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 350,
+   "question": "Welcher ist der höchste Berg Deutschlands?",
+   "answer": "Zugspitze (2.962 m)",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 351,
+   "question": "Was ist die Hauptstadt von Nordrhein-Westfalen?",
+   "answer": "Düsseldorf (nicht Köln!)",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 352,
+   "question": "Aus welchem Land kommt der Camembert?",
+   "answer": "Frankreich",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 353,
+   "question": "Welche Frucht ist die Hauptzutat von Ketchup?",
+   "answer": "Tomate",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 354,
+   "question": "Aus welchen Bohnen wird Schokolade hergestellt?",
+   "answer": "Kakaobohnen",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 355,
+   "question": "Was trinkt man in Frankfurt als „Äppler“ oder „Ebbelwoi“?",
+   "answer": "Apfelwein",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 356,
+   "question": "Aus welchem Land stammt das Wiener Schnitzel?",
+   "answer": "Österreich",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 357,
+   "question": "Wer gründete Apple zusammen mit Steve Wozniak?",
+   "answer": "Steve Jobs",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 358,
+   "question": "Wofür steht die Abkürzung „KI“?",
+   "answer": "Künstliche Intelligenz",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 359,
+   "question": "Wie heißt das Betriebssystem des iPhones?",
+   "answer": "iOS",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 360,
+   "question": "Wofür steht „WLAN“?",
+   "answer": "Wireless Local Area Network",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 361,
+   "question": "Was ist die Hauptstadt von Vietnam?",
+   "answer": "Hanoi",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 362,
+   "question": "Was ist die Hauptstadt der Philippinen?",
+   "answer": "Manila",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 363,
+   "question": "Was ist die Hauptstadt von Nigeria?",
+   "answer": "Abuja (nicht Lagos!)",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 364,
+   "question": "Was ist der Regierungssitz von Südafrika?",
+   "answer": "Pretoria (Kapstadt & Bloemfontein auch gelten lassen)",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 365,
+   "question": "In welcher Stadt steht der Big Ben?",
+   "answer": "London",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 366,
+   "question": "In welcher Stadt steht das Atomium?",
+   "answer": "Brüssel",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 367,
+   "question": "Wer war Bundeskanzler bei der Wiedervereinigung 1990?",
+   "answer": "Helmut Kohl",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 368,
+   "question": "Wer war Bundeskanzler von 1998 bis 2005?",
+   "answer": "Gerhard Schröder",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 369,
+   "question": "Wer erreichte 1911 als Erster den Südpol?",
+   "answer": "Roald Amundsen",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 370,
+   "question": "Wer bestieg 1953 als Erste den Mount Everest?",
+   "answer": "Edmund Hillary und Tenzing Norgay",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 371,
+   "question": "In welcher Einheit misst man elektrische Stromstärke?",
+   "answer": "Ampere",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 372,
+   "question": "In welcher Einheit misst man Leistung?",
+   "answer": "Watt",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 373,
+   "question": "Welcher Planet hat den kürzesten Tag?",
+   "answer": "Jupiter (ca. 10 Stunden)",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 374,
+   "question": "Welcher Planet hat die meisten bekannten Monde (Stand 2025)?",
+   "answer": "Saturn",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 375,
+   "question": "Welches ist das langsamste Säugetier?",
+   "answer": "Faultier",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 376,
+   "question": "Welches Tier hat das größte Gehirn?",
+   "answer": "Pottwal",
+   "category": "Natur",
+   "difficulty": 3
+  },
+  {
+   "id": 377,
+   "question": "In welchem Shakespeare-Drama heißt es „Sein oder Nichtsein“?",
+   "answer": "Hamlet",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 378,
+   "question": "Welcher Shakespeare-König wird von zwei seiner Töchter verraten?",
+   "answer": "König Lear",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 379,
+   "question": "Wer komponierte die Oper „Carmen“?",
+   "answer": "Georges Bizet",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 380,
+   "question": "Wer komponierte die Oper „Aida“?",
+   "answer": "Giuseppe Verdi",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 381,
+   "question": "In welchem Land fand die Fußball-WM 2014 statt?",
+   "answer": "Brasilien",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 382,
+   "question": "In welchem Land fand die Fußball-WM 2006 statt?",
+   "answer": "Deutschland",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 383,
+   "question": "Wie viele Spieler einer Rugby-Mannschaft (Union) stehen auf dem Feld?",
+   "answer": "15",
+   "category": "Sport",
+   "difficulty": 3
+  },
+  {
+   "id": 384,
+   "question": "Wie viele Spieler einer Baseball-Mannschaft stehen in der Verteidigung auf dem Feld?",
+   "answer": "9",
+   "category": "Sport",
+   "difficulty": 3
+  },
+  {
+   "id": 385,
+   "question": "Für welche Zahl steht die römische Zahl L?",
+   "answer": "50",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 386,
+   "question": "Für welche Zahl steht die römische Zahl D?",
+   "answer": "500",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 387,
+   "question": "Was heißt „Danke“ auf Japanisch?",
+   "answer": "Arigatō",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 388,
+   "question": "Was heißt „Danke“ auf Spanisch?",
+   "answer": "Gracias",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 389,
+   "question": "Was ist die Hauptstadt von Niedersachsen?",
+   "answer": "Hannover",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 390,
+   "question": "Was ist die Hauptstadt von Schleswig-Holstein?",
+   "answer": "Kiel",
+   "category": "Deutschland",
+   "difficulty": 3
+  },
+  {
+   "id": 391,
+   "question": "Aus welchem Land kommt der Gouda?",
+   "answer": "Niederlande",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 392,
+   "question": "Aus welchem Land kommt der Emmentaler?",
+   "answer": "Schweiz",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 393,
+   "question": "Welches Land produziert den meisten Kaffee?",
+   "answer": "Brasilien",
+   "category": "Essen & Trinken",
+   "difficulty": 3
+  },
+  {
+   "id": 394,
+   "question": "Welches Land produziert den meisten Tee?",
+   "answer": "China",
+   "category": "Essen & Trinken",
+   "difficulty": 3
+  },
+  {
+   "id": 395,
+   "question": "Wer gründete Facebook?",
+   "answer": "Mark Zuckerberg",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 396,
+   "question": "Wer gründete Amazon?",
+   "answer": "Jeff Bezos",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 397,
+   "question": "Wer malte 1502 den berühmten „Feldhasen“?",
+   "answer": "Albrecht Dürer",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 398,
+   "question": "Wer malte „Der Wanderer über dem Nebelmeer“?",
+   "answer": "Caspar David Friedrich",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 399,
+   "question": "Welches Organ speichert die Galle?",
+   "answer": "Gallenblase",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 400,
+   "question": "Welches ist das größte innere Organ des Menschen?",
+   "answer": "Leber",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 401,
+   "question": "Was ist die Hauptstadt von Spanien?",
+   "answer": "Madrid",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 402,
+   "question": "Welches Tier wird „König der Tiere“ genannt?",
+   "answer": "Löwe",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 403,
+   "question": "Welche Farbe hat ein Smaragd?",
+   "answer": "Grün",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 404,
+   "question": "Wie viele Spieler stehen bei einem Tennis-Doppel insgesamt auf dem Platz?",
+   "answer": "4",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 405,
+   "question": "In welcher Stadt steht der Eiffelturm?",
+   "answer": "Paris",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 406,
+   "question": "Welches Gas brauchen wir Menschen zum Atmen?",
+   "answer": "Sauerstoff",
+   "category": "Mensch",
+   "difficulty": 1
+  },
+  {
+   "id": 407,
+   "question": "Wie viele Zentimeter hat ein Meter?",
+   "answer": "100",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 408,
+   "question": "Welche Farbe entsteht, wenn man Rot und Weiß mischt?",
+   "answer": "Rosa",
+   "category": "Kunst",
+   "difficulty": 1
+  },
+  {
+   "id": 409,
+   "question": "Welches Tier ist das Logo des WWF?",
+   "answer": "Panda",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 410,
+   "question": "Aus welchem Land kommt der Fußballverein FC Barcelona?",
+   "answer": "Spanien",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 411,
+   "question": "Welches Instrument hat schwarze und weiße Tasten?",
+   "answer": "Klavier",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 412,
+   "question": "Wie heißt der weiße Blutsbruder von Winnetou?",
+   "answer": "Old Shatterhand",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 413,
+   "question": "Welcher Ozean liegt zwischen Afrika und Australien?",
+   "answer": "Indischer Ozean",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 414,
+   "question": "Was stellen Bienen her?",
+   "answer": "Honig (und Wachs)",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 415,
+   "question": "Wie lange dauert eine Halbzeit beim Fußball?",
+   "answer": "45 Minuten",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 416,
+   "question": "Welches Land ist für Kängurus bekannt?",
+   "answer": "Australien",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 417,
+   "question": "Was ist die Hauptstadt von Österreich?",
+   "answer": "Wien",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 418,
+   "question": "Welche Farben hat die deutsche Flagge?",
+   "answer": "Schwarz, Rot, Gold",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 419,
+   "question": "Wie heißt die Heldin in „Die Schöne und das Biest“?",
+   "answer": "Belle",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 420,
+   "question": "Wer singt „Shape of You“?",
+   "answer": "Ed Sheeran",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 421,
+   "question": "Welcher ist der kälteste Kontinent?",
+   "answer": "Antarktis",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 422,
+   "question": "Aus welchem Land kommt das Croissant, wie wir es kennen?",
+   "answer": "Frankreich",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 423,
+   "question": "Was ist die Hauptstadt von Dänemark?",
+   "answer": "Kopenhagen",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 424,
+   "question": "Welcher Fluss fließt durch Rom?",
+   "answer": "Tiber",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 425,
+   "question": "Wer entdeckte 1895 die Röntgenstrahlen?",
+   "answer": "Wilhelm Conrad Röntgen",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 426,
+   "question": "Was ist die Hauptstadt von Hessen?",
+   "answer": "Wiesbaden (nicht Frankfurt!)",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 427,
+   "question": "Wie viele Sterne hat die Flagge der EU?",
+   "answer": "12",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 428,
+   "question": "Welche Band sang „Smoke on the Water“?",
+   "answer": "Deep Purple",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 429,
+   "question": "Was ist ein Haiku?",
+   "answer": "Ein japanisches Kurzgedicht (5-7-5 Silben)",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 430,
+   "question": "Welches ist das längste Gebirge der Welt an Land?",
+   "answer": "Anden",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 431,
+   "question": "Welcher Kanal verbindet in Mittelamerika Atlantik und Pazifik?",
+   "answer": "Panamakanal",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 432,
+   "question": "In welcher Einheit misst man den elektrischen Widerstand?",
+   "answer": "Ohm",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 433,
+   "question": "Welches Gemüse gibt dem Borschtsch seine rote Farbe?",
+   "answer": "Rote Bete",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 434,
+   "question": "Wer malte „Die Nachtwache“?",
+   "answer": "Rembrandt",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 435,
+   "question": "Welches Tier ist auf dem Ferrari-Logo zu sehen?",
+   "answer": "Ein (springendes) Pferd",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 436,
+   "question": "Was ist die Hauptstadt der USA?",
+   "answer": "Washington, D.C.",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 437,
+   "question": "Wer komponierte den „Boléro“?",
+   "answer": "Maurice Ravel",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 438,
+   "question": "Wie viel Grad hat ein voller Kreis?",
+   "answer": "360°",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 439,
+   "question": "Für welches Element steht das Symbol He?",
+   "answer": "Helium",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 440,
+   "question": "In welchem Jahr landeten die ersten Menschen auf dem Mond?",
+   "answer": "1969",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 441,
+   "question": "Wer folgte Ende 2021 auf Angela Merkel als Bundeskanzler?",
+   "answer": "Olaf Scholz",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 442,
+   "question": "Welcher Fluss hat die längste Strecke innerhalb Deutschlands?",
+   "answer": "Rhein",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 443,
+   "question": "In welchem Meer kann man wegen des hohen Salzgehalts einfach treiben?",
+   "answer": "Totes Meer",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 444,
+   "question": "Wie heißen die Ureinwohner Neuseelands?",
+   "answer": "Māori",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 445,
+   "question": "Welche Sportart betreibt man bei der Tour de France?",
+   "answer": "Radsport",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 446,
+   "question": "Wie viele Weltwunder der Antike gab es?",
+   "answer": "7",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 447,
+   "question": "Welches der sieben antiken Weltwunder steht heute noch?",
+   "answer": "Die Pyramiden von Gizeh",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 448,
+   "question": "Was bedeutet „Bon appétit“?",
+   "answer": "Guten Appetit",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 449,
+   "question": "Aus welcher Milch wird echter „Mozzarella di Bufala“ gemacht?",
+   "answer": "Büffelmilch",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 450,
+   "question": "Wer verbesserte 1769 die Dampfmaschine entscheidend?",
+   "answer": "James Watt",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 451,
+   "question": "Wofür steht die Abkürzung „HTML“?",
+   "answer": "Hypertext Markup Language",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 452,
+   "question": "Wie hieß die Plattform „X“ früher?",
+   "answer": "Twitter",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 453,
+   "question": "Was ist die Hauptstadt von Kasachstan?",
+   "answer": "Astana",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 454,
+   "question": "Was ist die Hauptstadt von Myanmar?",
+   "answer": "Naypyidaw (nicht Rangun!)",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 455,
+   "question": "Was ist die Hauptstadt der Mongolei?",
+   "answer": "Ulaanbaatar (Ulan Bator)",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 456,
+   "question": "Welches Land hat (mit Überseegebieten) die meisten Zeitzonen?",
+   "answer": "Frankreich (12)",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 457,
+   "question": "Welches ist das kleinste Land auf dem afrikanischen Festland?",
+   "answer": "Gambia",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 458,
+   "question": "In welchem Jahr wurde Rom der Legende nach gegründet?",
+   "answer": "753 v. Chr.",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 459,
+   "question": "Welche Dynastie regierte als letzte das chinesische Kaiserreich?",
+   "answer": "Qing-Dynastie",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 460,
+   "question": "Wie hieß der letzte Zar Russlands?",
+   "answer": "Nikolaus II.",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 461,
+   "question": "In welchem Jahr zerfiel die Sowjetunion?",
+   "answer": "1991",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 462,
+   "question": "Welches Element hat die Ordnungszahl 79?",
+   "answer": "Gold",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 463,
+   "question": "Wie heißt die kleinste lebende Einheit aller Lebewesen?",
+   "answer": "Die Zelle",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 464,
+   "question": "Welcher ist der hellste Stern am Nachthimmel?",
+   "answer": "Sirius",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 465,
+   "question": "Wie heißt der größte bekannte Vulkan im Sonnensystem?",
+   "answer": "Olympus Mons (auf dem Mars)",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 466,
+   "question": "Welches Säugetier legt Eier?",
+   "answer": "Schnabeltier (Ameisenigel auch gelten lassen)",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 467,
+   "question": "Wie lange ist eine Elefantenkuh trächtig?",
+   "answer": "ca. 22 Monate",
+   "category": "Natur",
+   "difficulty": 3
+  },
+  {
+   "id": 468,
+   "question": "Wie viel Blut hat ein erwachsener Mensch ungefähr?",
+   "answer": "5–6 Liter",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 469,
+   "question": "Wie lautet der Fachbegriff für Kurzsichtigkeit?",
+   "answer": "Myopie",
+   "category": "Mensch",
+   "difficulty": 3
+  },
+  {
+   "id": 470,
+   "question": "Wer malte „Impression, Sonnenaufgang“, nach dem der Impressionismus benannt ist?",
+   "answer": "Claude Monet",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 471,
+   "question": "Wer schuf die Skulptur „Der Denker“?",
+   "answer": "Auguste Rodin",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 472,
+   "question": "Wer schrieb „Hundert Jahre Einsamkeit“?",
+   "answer": "Gabriel García Márquez",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 473,
+   "question": "Wer schrieb „Der Steppenwolf“?",
+   "answer": "Hermann Hesse",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 474,
+   "question": "Wer komponierte „Der Ring des Nibelungen“?",
+   "answer": "Richard Wagner",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 475,
+   "question": "Wie viele Sinfonien hat Beethoven vollendet?",
+   "answer": "9",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 476,
+   "question": "Wie viele Spieler pro Team sind beim Polo auf dem Feld?",
+   "answer": "4",
+   "category": "Sport",
+   "difficulty": 3
+  },
+  {
+   "id": 477,
+   "question": "Wie lange dauert eine Runde im Profi-Boxen der Männer?",
+   "answer": "3 Minuten",
+   "category": "Sport",
+   "difficulty": 3
+  },
+  {
+   "id": 478,
+   "question": "Welches ist die kleinste Primzahl?",
+   "answer": "2",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 479,
+   "question": "Wie viele Kanten hat ein Tetraeder?",
+   "answer": "6",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 480,
+   "question": "Wie heißt die Lehre von der Herkunft der Wörter?",
+   "answer": "Etymologie",
+   "category": "Sprache",
+   "difficulty": 3
+  },
+  {
+   "id": 481,
+   "question": "Was ist die Hauptstadt von Estland?",
+   "answer": "Tallinn",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 482,
+   "question": "Was ist die Hauptstadt von Lettland?",
+   "answer": "Riga",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 483,
+   "question": "Wer baute 1941 mit der Z3 den ersten funktionsfähigen Computer?",
+   "answer": "Konrad Zuse",
+   "category": "Technik",
+   "difficulty": 3
+  },
+  {
+   "id": 484,
+   "question": "Wer erfand 1817 die Laufmaschine, den Vorläufer des Fahrrads?",
+   "answer": "Karl Drais",
+   "category": "Technik",
+   "difficulty": 3
+  },
+  {
+   "id": 485,
+   "question": "Welcher ist der kleinste Ozean der Welt?",
+   "answer": "Arktischer Ozean (Nordpolarmeer)",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 486,
+   "question": "Welcher ist der zweitgrößte Ozean der Welt?",
+   "answer": "Atlantik",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 487,
+   "question": "Wo fanden die Olympischen Sommerspiele 2024 statt?",
+   "answer": "Paris",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 488,
+   "question": "In welcher deutschen Stadt fanden 1972 Olympische Sommerspiele statt?",
+   "answer": "München",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 489,
+   "question": "Wie heißt ein junger Hund?",
+   "answer": "Welpe",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 490,
+   "question": "Wie heißt eine junge Kuh?",
+   "answer": "Kalb",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 491,
+   "question": "Wie viele Diagonalen hat ein Fünfeck?",
+   "answer": "5",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 492,
+   "question": "Wie viele Diagonalen hat ein Sechseck?",
+   "answer": "9",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 493,
+   "question": "Wer formulierte die Gesetze der Planetenbewegung?",
+   "answer": "Johannes Kepler",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 494,
+   "question": "Wer stellte im 16. Jh. das Weltbild mit der Sonne im Zentrum auf?",
+   "answer": "Nikolaus Kopernikus",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 495,
+   "question": "Welcher deutsche Autor erhielt 1999 den Literaturnobelpreis?",
+   "answer": "Günter Grass",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 496,
+   "question": "Welcher deutsche Autor erhielt 1929 den Literaturnobelpreis?",
+   "answer": "Thomas Mann",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 497,
+   "question": "Welche Sängerin singt „Shake It Off“?",
+   "answer": "Taylor Swift",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 498,
+   "question": "Welche Sängerin singt „Hello“ (2015)?",
+   "answer": "Adele",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 499,
+   "question": "Aus welchem Land stammt das Baguette?",
+   "answer": "Frankreich",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 500,
+   "question": "Aus welchem Land stammt das Naan-Brot?",
+   "answer": "Indien (auch Pakistan/Persien gelten lassen)",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  }
+ ],
+ "pairs": [
+  {
+   "id": 1,
+   "topic": "Hauptstädte Skandinavien",
+   "a": 81,
+   "b": 82
+  },
+  {
+   "id": 2,
+   "topic": "Weltliteratur",
+   "a": 83,
+   "b": 84
+  },
+  {
+   "id": 3,
+   "topic": "Chemische Symbole",
+   "a": 85,
+   "b": 86
+  },
+  {
+   "id": 4,
+   "topic": "Tierbeine",
+   "a": 87,
+   "b": 88
+  },
+  {
+   "id": 5,
+   "topic": "Deutsche Geschichte",
+   "a": 89,
+   "b": 90
+  },
+  {
+   "id": 6,
+   "topic": "Berühmte Gemälde",
+   "a": 91,
+   "b": 92
+  },
+  {
+   "id": 7,
+   "topic": "Planeten",
+   "a": 93,
+   "b": 94
+  },
+  {
+   "id": 8,
+   "topic": "Mannschaftssport",
+   "a": 95,
+   "b": 96
+  },
+  {
+   "id": 9,
+   "topic": "Bauwerke der Welt",
+   "a": 97,
+   "b": 98
+  },
+  {
+   "id": 10,
+   "topic": "Klassische Musik",
+   "a": 99,
+   "b": 100
+  },
+  {
+   "id": 11,
+   "topic": "Hauptstädte Südamerika",
+   "a": 101,
+   "b": 102
+  },
+  {
+   "id": 12,
+   "topic": "Erfindungen",
+   "a": 103,
+   "b": 104
+  },
+  {
+   "id": 13,
+   "topic": "Menschlicher Körper",
+   "a": 105,
+   "b": 106
+  },
+  {
+   "id": 14,
+   "topic": "Deutsche Literatur",
+   "a": 107,
+   "b": 108
+  },
+  {
+   "id": 15,
+   "topic": "Flüsse in Hauptstädten",
+   "a": 109,
+   "b": 110
+  },
+  {
+   "id": 16,
+   "topic": "Historische Jahre",
+   "a": 111,
+   "b": 112
+  },
+  {
+   "id": 17,
+   "topic": "Vögel",
+   "a": 113,
+   "b": 114
+  },
+  {
+   "id": 18,
+   "topic": "Geometrie",
+   "a": 115,
+   "b": 116
+  },
+  {
+   "id": 19,
+   "topic": "Sprachen",
+   "a": 117,
+   "b": 118
+  },
+  {
+   "id": 20,
+   "topic": "Bauwerke in Europa",
+   "a": 119,
+   "b": 120
+  },
+  {
+   "id": 21,
+   "topic": "Hauptstädte Osteuropa",
+   "a": 221,
+   "b": 222
+  },
+  {
+   "id": 22,
+   "topic": "Hohe Berge",
+   "a": 223,
+   "b": 224
+  },
+  {
+   "id": 23,
+   "topic": "Erfinder",
+   "a": 225,
+   "b": 226
+  },
+  {
+   "id": 24,
+   "topic": "Monde",
+   "a": 227,
+   "b": 228
+  },
+  {
+   "id": 25,
+   "topic": "Tierbabys",
+   "a": 229,
+   "b": 230
+  },
+  {
+   "id": 26,
+   "topic": "Komponisten",
+   "a": 231,
+   "b": 232
+  },
+  {
+   "id": 27,
+   "topic": "Märchen",
+   "a": 233,
+   "b": 234
+  },
+  {
+   "id": 28,
+   "topic": "Lange Kriege",
+   "a": 235,
+   "b": 236
+  },
+  {
+   "id": 29,
+   "topic": "Körper zählen",
+   "a": 237,
+   "b": 238
+  },
+  {
+   "id": 30,
+   "topic": "Noch mehr Symbole",
+   "a": 239,
+   "b": 240
+  },
+  {
+   "id": 31,
+   "topic": "Distanzen im Sport",
+   "a": 241,
+   "b": 242
+  },
+  {
+   "id": 32,
+   "topic": "Nationalgerichte",
+   "a": 243,
+   "b": 244
+  },
+  {
+   "id": 33,
+   "topic": "Renaissance-Kunst",
+   "a": 245,
+   "b": 246
+  },
+  {
+   "id": 34,
+   "topic": "Guten Morgen!",
+   "a": 247,
+   "b": 248
+  },
+  {
+   "id": 35,
+   "topic": "Kopfrechnen",
+   "a": 249,
+   "b": 250
+  },
+  {
+   "id": 36,
+   "topic": "Deutsche Flüsse",
+   "a": 251,
+   "b": 252
+  },
+  {
+   "id": 37,
+   "topic": "Raumfahrt",
+   "a": 253,
+   "b": 254
+  },
+  {
+   "id": 38,
+   "topic": "Kinderbuch-Klassiker",
+   "a": 255,
+   "b": 256
+  },
+  {
+   "id": 39,
+   "topic": "Tier-Rekorde",
+   "a": 257,
+   "b": 258
+  },
+  {
+   "id": 40,
+   "topic": "Technik-Abkürzungen",
+   "a": 259,
+   "b": 260
+  },
+  {
+   "id": 41,
+   "topic": "Hauptstädte Asien",
+   "a": 361,
+   "b": 362
+  },
+  {
+   "id": 42,
+   "topic": "Hauptstädte Afrika",
+   "a": 363,
+   "b": 364
+  },
+  {
+   "id": 43,
+   "topic": "Wahrzeichen",
+   "a": 365,
+   "b": 366
+  },
+  {
+   "id": 44,
+   "topic": "Bundeskanzler",
+   "a": 367,
+   "b": 368
+  },
+  {
+   "id": 45,
+   "topic": "Pioniere",
+   "a": 369,
+   "b": 370
+  },
+  {
+   "id": 46,
+   "topic": "Physik-Einheiten",
+   "a": 371,
+   "b": 372
+  },
+  {
+   "id": 47,
+   "topic": "Planeten-Rekorde",
+   "a": 373,
+   "b": 374
+  },
+  {
+   "id": 48,
+   "topic": "Tierische Extreme",
+   "a": 375,
+   "b": 376
+  },
+  {
+   "id": 49,
+   "topic": "Shakespeare",
+   "a": 377,
+   "b": 378
+  },
+  {
+   "id": 50,
+   "topic": "Oper",
+   "a": 379,
+   "b": 380
+  },
+  {
+   "id": 51,
+   "topic": "Fußball-WM",
+   "a": 381,
+   "b": 382
+  },
+  {
+   "id": 52,
+   "topic": "Ballsport",
+   "a": 383,
+   "b": 384
+  },
+  {
+   "id": 53,
+   "topic": "Römische Zahlen",
+   "a": 385,
+   "b": 386
+  },
+  {
+   "id": 54,
+   "topic": "Danke!",
+   "a": 387,
+   "b": 388
+  },
+  {
+   "id": 55,
+   "topic": "Landeshauptstädte",
+   "a": 389,
+   "b": 390
+  },
+  {
+   "id": 56,
+   "topic": "Käse",
+   "a": 391,
+   "b": 392
+  },
+  {
+   "id": 57,
+   "topic": "Kaffee & Tee",
+   "a": 393,
+   "b": 394
+  },
+  {
+   "id": 58,
+   "topic": "Tech-Gründer",
+   "a": 395,
+   "b": 396
+  },
+  {
+   "id": 59,
+   "topic": "Deutsche Maler",
+   "a": 397,
+   "b": 398
+  },
+  {
+   "id": 60,
+   "topic": "Organe",
+   "a": 399,
+   "b": 400
+  },
+  {
+   "id": 61,
+   "topic": "Baltikum",
+   "a": 481,
+   "b": 482
+  },
+  {
+   "id": 62,
+   "topic": "Deutsche Erfinder",
+   "a": 483,
+   "b": 484
+  },
+  {
+   "id": 63,
+   "topic": "Weltmeere",
+   "a": 485,
+   "b": 486
+  },
+  {
+   "id": 64,
+   "topic": "Olympia",
+   "a": 487,
+   "b": 488
+  },
+  {
+   "id": 65,
+   "topic": "Tierbabys",
+   "a": 489,
+   "b": 490
+  },
+  {
+   "id": 66,
+   "topic": "Diagonalen",
+   "a": 491,
+   "b": 492
+  },
+  {
+   "id": 67,
+   "topic": "Astronomen",
+   "a": 493,
+   "b": 494
+  },
+  {
+   "id": 68,
+   "topic": "Literaturnobelpreis",
+   "a": 495,
+   "b": 496
+  },
+  {
+   "id": 69,
+   "topic": "Pop-Sängerinnen",
+   "a": 497,
+   "b": 498
+  },
+  {
+   "id": 70,
+   "topic": "Brot der Welt",
+   "a": 499,
+   "b": 500
+  }
+ ]
+}
