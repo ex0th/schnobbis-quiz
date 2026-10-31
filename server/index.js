@@ -11,8 +11,10 @@ import { Static, securityHeaders, sendJson } from './http.js';
 
 export function createServer(cfg = config, db = openDb(cfg.dataDir)) {
   const qs = new QuestionStore(db);
-  const seeded = qs.seedFromFile(cfg.seedFile);
-  if (seeded) console.log(`Fragen importiert: ${seeded.created} Fragen, ${seeded.pairs} Duell-Paare${seeded.errors.length ? `, ${seeded.errors.length} Fehler` : ''}`);
+  const seeded = qs.syncSeed(cfg.seedFile);
+  if (seeded && (seeded.questions || seeded.pairs || seeded.errors.length)) {
+    console.log(`Fragenkatalog: ${seeded.questions} neue Fragen, ${seeded.pairs} neue Duell-Paare übernommen${seeded.errors.length ? ` (${seeded.errors.length} Fehler: ${JSON.stringify(seeded.errors.slice(0, 3))})` : ''}`);
+  }
   const stats = new Stats(db);
   const rooms = new RoomManager({ db, qs, stats, config: cfg });
   const restored = rooms.loadPersisted();

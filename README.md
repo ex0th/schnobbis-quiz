@@ -4,7 +4,7 @@ Allgemeinwissen-Quiz für den Spieleabend – **selbst gehostet, und jeder spiel
 
 Der Spielleiter erstellt ein Spiel, alle anderen scannen den QR-Code und sind dabei. Fragen, Lösungen, Buzzer und Punkte laufen live über WebSockets. Jedes Spiel landet in einer Statistik mit ewiger Bestenliste.
 
-Weiterentwicklung der Quiz-PWA aus [lenegoeslean/Schnobsi-quiz](https://github.com/lenegoeslean/Schnobsi-quiz). Alle 500 Fragen, 70 Duell-Paare und alle Spielregeln von dort sind übernommen.
+Weiterentwicklung der Quiz-PWA aus [lenegoeslean/Schnobsi-quiz](https://github.com/lenegoeslean/Schnobsi-quiz). Alle 500 Fragen, 70 Duell-Paare und alle Spielregeln von dort sind übernommen – inzwischen ist der Katalog auf **907 Fragen in 16 Kategorien und 120 Duell-Paare** gewachsen.
 
 ---
 
@@ -133,7 +133,9 @@ Tipps:
 
 Lösungen dürfen Alternativen in Klammern enthalten, etwa `Nil (Amazonas auch gelten lassen)`. Der Antwort-Vorschlag bei *Alle tippen* berücksichtigt sie.
 
-**Per Datei:** `data/questions.json` wird nur beim allerersten Start geladen. Für spätere Massen-Imports:
+**Mitgelieferter Katalog:** `data/questions.json` ist der Fragenkatalog, der mit jeder Version ausgeliefert wird. Bei jedem Start ergänzt der Server Katalogfragen und Duell-Paare, die seine Datenbank noch nicht kennt. Ein Update des Containers bringt neue Katalogfragen also automatisch mit. Was schon einmal übernommen wurde, fasst der Abgleich nie wieder an: In der Verwaltung bearbeitete oder deaktivierte Fragen und gelöschte Duell-Paare bleiben, wie sie sind. Wortgleich schon vorhandene Fragen werden nicht doppelt angelegt.
+
+**Per Datei:** Für eigene Massen-Imports:
 
 ```bash
 docker compose cp fragen.json quiz:/data/fragen.json
@@ -210,7 +212,7 @@ server/
   api.js        REST-API
 public/
   js/views/     Startseite, Spiel (Spielleiter/Handy/TV), Statistik, Verwaltung
-data/questions.json   Startbestand: 500 Fragen, 70 Duell-Paare
+data/questions.json   Fragenkatalog: 907 Fragen, 120 Duell-Paare (wird bei jedem Start abgeglichen)
 ```
 
 Der Service Worker versioniert sich selbst: Der Server berechnet beim Start einen Hash über alle Dateien in `public/`. Keine Versionsnummer mehr von Hand hochzählen.

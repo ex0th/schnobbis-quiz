@@ -9,7 +9,7 @@ export const SEED = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '
 export function setup() {
   const db = openMemoryDb();
   const qs = new QuestionStore(db);
-  qs.seedFromFile(SEED);
+  qs.syncSeed(SEED);
   const stats = new Stats(db);
   return { db, qs, stats };
 }

@@ -2,19 +2,22 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { createGame, act, sanitizeSettings, isFinal, ranking, awards } from '../server/engine.js';
 import { buildView } from '../server/view.js';
-import { setup, rng, players } from './helpers.js';
+import fs from 'node:fs';
+import { setup, rng, players, SEED } from './helpers.js';
 
 const host = { role: 'host' };
 const S = over => sanitizeSettings({ timer: 0, ...over });
 
 function ctx(qs, now = 1000, extra = {}) { return { qs, now, rng: rng(), ...extra }; }
 
-test('Seed: 500 Fragen, 70 Paare, 15 Kategorien', () => {
+test('Seed: kompletter Katalog in der Datenbank', () => {
   const { qs } = setup();
   const s = qs.summary();
-  assert.equal(s.questions, 500);
-  assert.equal(s.pairs, 70);
-  assert.equal(s.categories.length, 15);
+  const cat = JSON.parse(fs.readFileSync(SEED, 'utf8'));
+  assert.equal(s.questions, cat.questions.length);
+  assert.equal(s.pairs, cat.pairs.length);
+  assert.equal(s.categories.length, cat.categories.length);
+  assert.ok(s.categories.every(c => c.count > 0), 'jede Kategorie hat Fragen');
 });
 
 test('Klassik: Reihum-Reihenfolge, Punkte, Serien-Bonus, Klauen, Finale', () => {

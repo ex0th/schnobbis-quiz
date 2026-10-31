@@ -84,6 +84,30 @@ const MIGRATIONS = [
     updated_at INTEGER NOT NULL
   );
   `,
+  // 2: Katalog-Sync. Merkt sich, welche Fragen/Paare aus data/questions.json schon übernommen wurden –
+  // so kommen neue Katalogfragen per Update dazu, ohne gelöschte oder geänderte Einträge zurückzuholen.
+  db => {
+    db.exec(`
+      CREATE TABLE seed_applied (
+        kind TEXT NOT NULL,        -- 'q' = Frage, 'p' = Duell-Paar
+        seed_id INTEGER NOT NULL,  -- id im Katalog (data/questions.json)
+        ref_id INTEGER,            -- id in der Datenbank (NULL = bewusst nicht übernommen/gelöscht)
+        PRIMARY KEY (kind, seed_id)
+      );
+    `);
+    // Datenbanken aus v2.0.0 wurden mit dem Startkatalog befüllt: Fragen 1–500, Duell-Paare 1–70.
+    // Ids sind dort identisch. Fehlende Paare wurden vom Admin gelöscht und bleiben gelöscht.
+    if (db.prepare('SELECT COUNT(*) AS n FROM questions').get().n > 0) {
+      db.exec(`
+        WITH RECURSIVE n(i) AS (SELECT 1 UNION ALL SELECT i + 1 FROM n WHERE i < 500)
+        INSERT INTO seed_applied (kind, seed_id, ref_id)
+          SELECT 'q', i, (SELECT id FROM questions WHERE id = i) FROM n;
+        WITH RECURSIVE n(i) AS (SELECT 1 UNION ALL SELECT i + 1 FROM n WHERE i < 70)
+        INSERT INTO seed_applied (kind, seed_id, ref_id)
+          SELECT 'p', i, (SELECT id FROM pairs WHERE id = i) FROM n;
+      `);
+    }
+  },
 ];
 
 export function openDb(dataDir) {
@@ -105,7 +129,8 @@ function migrate(db) {
   const v = db.prepare('PRAGMA user_version').get().user_version;
   for (let i = v; i < MIGRATIONS.length; i++) {
     tx(db, () => {
-      db.exec(MIGRATIONS[i]);
+      const m = MIGRATIONS[i];
+      if (typeof m === 'function') m(db); else db.exec(m);
       db.exec(`PRAGMA user_version = ${i + 1}`);
     });
   }

@@ -236,7 +236,7 @@ test('Admin-API: Schutz, Anlegen, Bulk-Import, Export', async () => {
   assert.equal((await fetch(`${base}/api/questions`)).status, 401);
   assert.equal((await fetch(`${base}/api/questions`, { headers: { Authorization: 'Bearer falsch' } })).status, 401);
   const q = await fetch(`${base}/api/questions`, { method: 'POST', headers: H, body: JSON.stringify({ question: 'Wie heißt die Hauptstadt von Bayern?', answer: 'München', category: 'Deutschland', difficulty: 1, source: 'test' }) }).then(r => r.json());
-  assert.ok(q.id > 500);
+  assert.ok(q.id > 0);
   const bad = await fetch(`${base}/api/questions`, { method: 'POST', headers: H, body: JSON.stringify({ question: 'x' }) });
   assert.equal(bad.status, 400);
   const bulk = await fetch(`${base}/api/questions`, { method: 'POST', headers: H, body: JSON.stringify([
@@ -250,12 +250,13 @@ test('Admin-API: Schutz, Anlegen, Bulk-Import, Export', async () => {
   const upd = await fetch(`${base}/api/questions/${q.id}`, { method: 'PATCH', headers: H, body: JSON.stringify({ active: false }) }).then(r => r.json());
   assert.equal(upd.active, 0);
   const exp = await fetch(`${base}/api/export`, { headers: H }).then(r => r.json());
-  assert.equal(exp.questions.length, 502);
-  assert.equal(exp.pairs.length, 70);
+  const cat = JSON.parse(fs.readFileSync(cfg.seedFile, 'utf8'));
+  assert.equal(exp.questions.length, cat.questions.length + 2);
+  assert.equal(exp.pairs.length, cat.pairs.length);
   // Re-Import des Exports ändert nichts an der Anzahl
   const imp = await fetch(`${base}/api/import`, { method: 'POST', headers: H, body: JSON.stringify(exp) }).then(r => r.json());
   assert.equal(imp.created, 0);
-  assert.equal(imp.updated, 502);
+  assert.equal(imp.updated, cat.questions.length + 2);
 });
 
 test('Statische Auslieferung: Seiten, Service Worker mit Build-ID, Sicherheits-Header', async () => {

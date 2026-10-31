@@ -292,12 +292,63 @@ export class QuestionStore {
     return stats;
   }
 
-  seedFromFile(file) {
-    if (!this.isEmpty() || !fs.existsSync(file)) return null;
+  // Katalog-Sync beim Start: Fragen und Duell-Paare aus data/questions.json, die diese Datenbank noch nicht
+  // kennt, werden ergänzt. Was schon einmal übernommen wurde, wird nie wieder angefasst – Änderungen,
+  // Deaktivierungen und gelöschte Paare aus der Verwaltung bleiben also erhalten.
+  syncSeed(file) {
+    if (!fs.existsSync(file)) return null;
     const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-    data.categories?.forEach((c, i) => {
-      this.db.prepare('INSERT OR IGNORE INTO categories (name, icon, sort) VALUES (?, ?, ?)').run(c.name, c.icon || '🏷️', i + 1);
+    const db = this.db;
+    const stats = { questions: 0, pairs: 0, categories: 0, linked: 0, errors: [] };
+    const applied = kind => new Map(db.prepare('SELECT seed_id, ref_id FROM seed_applied WHERE kind = ?').all(kind).map(r => [r.seed_id, r.ref_id]));
+    const mark = db.prepare('INSERT OR REPLACE INTO seed_applied (kind, seed_id, ref_id) VALUES (?, ?, ?)');
+    const textKey = t => String(t).toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
+    tx(db, () => {
+      let sort = db.prepare('SELECT COALESCE(MAX(sort), 0) AS s FROM categories').get().s;
+      for (const c of data.categories || []) {
+        if (db.prepare('SELECT 1 FROM categories WHERE name = ?').get(c.name)) continue;
+        db.prepare('INSERT INTO categories (name, icon, sort) VALUES (?, ?, ?)').run(c.name, c.icon || '🏷️', ++sort);
+        stats.categories++;
+      }
+      const qa = applied('q');
+      // Gibt es die Frage schon wortgleich (z. B. von Hand angelegt), wird sie verknüpft statt doppelt angelegt
+      const byText = new Map(db.prepare('SELECT id, question FROM questions').all().map(r => [textKey(r.question), r.id]));
+      const ins = db.prepare('INSERT INTO questions (id, question, answer, category, difficulty, active, source) VALUES (?, ?, ?, ?, ?, 1, ?)');
+      for (const q of data.questions || []) {
+        if (qa.has(q.id)) continue;
+        try {
+          const v = this.validate(q);
+          let ref = byText.get(textKey(v.question));
+          if (ref) {
+            stats.linked++;
+          } else {
+            if (!db.prepare('SELECT 1 FROM categories WHERE name = ?').get(v.category)) {
+              db.prepare('INSERT INTO categories (name, icon, sort) VALUES (?, ?, ?)').run(v.category, '🏷️', ++sort);
+            }
+            const free = !db.prepare('SELECT 1 FROM questions WHERE id = ?').get(q.id);
+            ref = Number(ins.run(free ? q.id : null, v.question, v.answer, v.category, v.difficulty, q.source || 'katalog').lastInsertRowid);
+            byText.set(textKey(v.question), ref);
+            stats.questions++;
+          }
+          mark.run('q', q.id, ref);
+          qa.set(q.id, ref);
+        } catch (e) {
+          stats.errors.push({ question: q.id, error: e.message });
+        }
+      }
+      const pa = applied('p');
+      const insP = db.prepare('INSERT INTO pairs (id, topic, a, b, active) VALUES (?, ?, ?, ?, 1)');
+      for (const p of data.pairs || []) {
+        if (pa.has(p.id)) continue;
+        const a = qa.get(p.a), b = qa.get(p.b);
+        if (!a || !b || a === b) { stats.errors.push({ pair: p.id, error: 'Frage fehlt' }); continue; }
+        const free = !db.prepare('SELECT 1 FROM pairs WHERE id = ?').get(p.id);
+        const ref = Number(insP.run(free ? p.id : null, String(p.topic).slice(0, 60), a, b).lastInsertRowid);
+        mark.run('p', p.id, ref);
+        stats.pairs++;
+      }
     });
-    return this.import({ ...data, questions: data.questions.map(q => ({ ...q, source: q.source || 'original' })) });
+    this.invalidate();
+    return stats;
   }
 }

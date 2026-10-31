@@ -60,6 +60,10 @@
   {
    "name": "Technik",
    "icon": "💻"
+  },
+  {
+   "name": "Film & TV",
+   "icon": "🎬"
   }
  ],
  "questions": [
@@ -3562,6 +3566,2855 @@
    "answer": "Indien (auch Pakistan/Persien gelten lassen)",
    "category": "Essen & Trinken",
    "difficulty": 1
+  },
+  {
+   "id": 501,
+   "question": "In welchem Jahr wurde Karl der Große in Rom zum Kaiser gekrönt?",
+   "answer": "800",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 502,
+   "question": "Welcher portugiesische Seefahrer erreichte 1498 als erster Europäer auf dem Seeweg Indien?",
+   "answer": "Vasco da Gama",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 503,
+   "question": "Welche Königin regierte England zur Zeit der Spanischen Armada (1588)?",
+   "answer": "Elisabeth I.",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 504,
+   "question": "Welcher karthagische Feldherr überquerte mit Kriegselefanten die Alpen?",
+   "answer": "Hannibal",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 505,
+   "question": "Welcher römische Kaiser ließ in Nordengland einen über 100 km langen Grenzwall bauen?",
+   "answer": "Hadrian",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 506,
+   "question": "In welchem Jahr endete der Amerikanische Bürgerkrieg?",
+   "answer": "1865",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 507,
+   "question": "Welcher US-Präsident führte die Nordstaaten durch den Amerikanischen Bürgerkrieg?",
+   "answer": "Abraham Lincoln",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 508,
+   "question": "Welcher US-Präsident wurde 1963 in Dallas ermordet?",
+   "answer": "John F. Kennedy",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 509,
+   "question": "Wie hieß der erste Kaiser Chinas, der sich mit der Terrakotta-Armee begraben ließ?",
+   "answer": "Qin Shihuangdi (Qin Shi Huang)",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 510,
+   "question": "Wie hieß die Hauptstadt des Byzantinischen Reiches?",
+   "answer": "Konstantinopel (heute Istanbul)",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 511,
+   "question": "In welchem Jahr eroberten die Osmanen Konstantinopel?",
+   "answer": "1453",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 512,
+   "question": "Unter welchem Namen ist die Pest-Pandemie im Europa des 14. Jahrhunderts bekannt?",
+   "answer": "Der Schwarze Tod",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 513,
+   "question": "Welcher Bürgerrechtler hielt 1963 die Rede „I Have a Dream“?",
+   "answer": "Martin Luther King",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 514,
+   "question": "Wer wurde 1994 der erste schwarze Präsident Südafrikas?",
+   "answer": "Nelson Mandela",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 515,
+   "question": "Wie viele Jahre saß Nelson Mandela ungefähr im Gefängnis?",
+   "answer": "27 Jahre (1962–1990)",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 516,
+   "question": "Welcher indische Freiheitskämpfer setzte auf gewaltlosen Widerstand gegen die britische Herrschaft?",
+   "answer": "Mahatma Gandhi",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 517,
+   "question": "In welchem Jahr wurde Indien unabhängig?",
+   "answer": "1947",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 518,
+   "question": "Welches westliche Militärbündnis wurde 1949 gegründet?",
+   "answer": "NATO",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 519,
+   "question": "Welcher französische König wurde „Sonnenkönig“ genannt?",
+   "answer": "Ludwig XIV.",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 520,
+   "question": "Welche Hinrichtungsmaschine wird vor allem mit der Französischen Revolution verbunden?",
+   "answer": "Guillotine",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 521,
+   "question": "Welche französische Königin wurde 1793 in Paris hingerichtet?",
+   "answer": "Marie Antoinette",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 522,
+   "question": "Wie hieß das Flaggschiff von Christoph Kolumbus auf seiner ersten Reise 1492?",
+   "answer": "Santa María",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 523,
+   "question": "Welches Volk gründete die Stadt Tenochtitlan, das heutige Mexiko-Stadt?",
+   "answer": "Die Azteken (Mexica)",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 524,
+   "question": "Welcher mongolische Herrscher schuf im 13. Jahrhundert ein riesiges Weltreich?",
+   "answer": "Dschingis Khan",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 525,
+   "question": "Welcher britische Seefahrer erkundete 1770 die Ostküste Australiens?",
+   "answer": "James Cook",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 526,
+   "question": "In welchem Jahr endete der Vietnamkrieg mit dem Fall von Saigon?",
+   "answer": "1975",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 527,
+   "question": "In welchem ukrainischen Kernkraftwerk kam es 1986 zur Reaktorkatastrophe?",
+   "answer": "Tschernobyl",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 528,
+   "question": "Wie nennt man die skandinavischen Seefahrer, die um 800–1050 Europa heimsuchten?",
+   "answer": "Wikinger",
+   "category": "Geschichte",
+   "difficulty": 1
+  },
+  {
+   "id": 529,
+   "question": "Welcher Wikinger erreichte um das Jahr 1000 als einer der ersten Europäer Nordamerika?",
+   "answer": "Leif Eriksson",
+   "category": "Geschichte",
+   "difficulty": 3
+  },
+  {
+   "id": 530,
+   "question": "Wie heißt der Konflikt von 1962 um sowjetische Atomraketen auf einer Karibikinsel?",
+   "answer": "Kubakrise",
+   "category": "Geschichte",
+   "difficulty": 2
+  },
+  {
+   "id": 531,
+   "question": "Für welches Element steht das Symbol Pb?",
+   "answer": "Blei",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 532,
+   "question": "Für welches Element steht das Symbol C?",
+   "answer": "Kohlenstoff",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 533,
+   "question": "Für welches Element steht das Symbol N?",
+   "answer": "Stickstoff",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 534,
+   "question": "Welches Edelgas lässt klassische Leuchtreklamen rot-orange leuchten?",
+   "answer": "Neon",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 535,
+   "question": "In welcher Einheit misst man Kraft?",
+   "answer": "Newton",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 536,
+   "question": "In welcher Einheit misst man Energie (SI-Einheit)?",
+   "answer": "Joule",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 537,
+   "question": "Was misst ein Barometer?",
+   "answer": "Luftdruck",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 538,
+   "question": "Was zeichnet ein Seismograph auf?",
+   "answer": "Erdbeben (Erschütterungen des Bodens)",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 539,
+   "question": "Welcher Physiker entwickelte 1913 ein Atommodell mit Elektronen auf festen Bahnen?",
+   "answer": "Niels Bohr",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 540,
+   "question": "Wie heißt das Molekül, das unsere Erbinformation trägt?",
+   "answer": "DNA (Desoxyribonukleinsäure)",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 541,
+   "question": "Welcher Mönch entdeckte an Erbsen die Grundregeln der Vererbung?",
+   "answer": "Gregor Mendel",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 542,
+   "question": "Welches Teilchen im Atomkern ist elektrisch neutral?",
+   "answer": "Neutron",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 543,
+   "question": "Bei wie viel Grad Celsius liegt der absolute Nullpunkt (gerundet)?",
+   "answer": "−273 °C (genau −273,15 °C)",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 544,
+   "question": "Wie nennt man den Übergang eines Stoffes von gasförmig zu flüssig?",
+   "answer": "Kondensation",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 545,
+   "question": "Welches Metall leitet elektrischen Strom am besten?",
+   "answer": "Silber",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 546,
+   "question": "Welches chemische Element ist nach Albert Einstein benannt?",
+   "answer": "Einsteinium",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 547,
+   "question": "Wie lautet die chemische Formel von Kohlendioxid?",
+   "answer": "CO₂",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 548,
+   "question": "Welche Säure befindet sich im menschlichen Magen?",
+   "answer": "Salzsäure",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 549,
+   "question": "Wie heißt die Kraft, die alles in Richtung Erdmittelpunkt zieht?",
+   "answer": "Schwerkraft (Gravitation)",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 550,
+   "question": "Wie viele chemische Elemente sind bisher bekannt?",
+   "answer": "118",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 551,
+   "question": "Welcher Physiker erfand das Quecksilberthermometer und eine nach ihm benannte Temperaturskala?",
+   "answer": "Daniel Gabriel Fahrenheit",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 552,
+   "question": "Welcher schwedische Astronom führte die hundertteilige Temperaturskala ein?",
+   "answer": "Anders Celsius",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 553,
+   "question": "Mit welchem Gerät betrachtet man winzige Dinge stark vergrößert?",
+   "answer": "Mikroskop",
+   "category": "Wissenschaft",
+   "difficulty": 1
+  },
+  {
+   "id": 554,
+   "question": "Welcher englische Arzt entwickelte 1796 die erste Impfung gegen Pocken?",
+   "answer": "Edward Jenner",
+   "category": "Wissenschaft",
+   "difficulty": 3
+  },
+  {
+   "id": 555,
+   "question": "Wie nennt man einen Stoff, der eine chemische Reaktion beschleunigt, ohne selbst verbraucht zu werden?",
+   "answer": "Katalysator",
+   "category": "Wissenschaft",
+   "difficulty": 2
+  },
+  {
+   "id": 556,
+   "question": "Welcher ist der kleinste Planet im Sonnensystem?",
+   "answer": "Merkur",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 557,
+   "question": "Auf welchem Planeten tobt der „Große Rote Fleck“, ein riesiger Wirbelsturm?",
+   "answer": "Jupiter",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 558,
+   "question": "Wie heißt der größte Mond des Saturn?",
+   "answer": "Titan",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 559,
+   "question": "Wie heißt die Mondregion, in der Apollo 11 landete?",
+   "answer": "Meer der Ruhe (Mare Tranquillitatis)",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 560,
+   "question": "Welcher Himmelskörper galt bis 2006 als neunter Planet?",
+   "answer": "Pluto",
+   "category": "Weltall",
+   "difficulty": 1
+  },
+  {
+   "id": 561,
+   "question": "Wie nennt man einen Gesteinsbrocken aus dem All, der auf der Erdoberfläche einschlägt?",
+   "answer": "Meteorit",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 562,
+   "question": "Zu welchem Sternbild gehört der „Große Wagen“?",
+   "answer": "Großer Bär",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 563,
+   "question": "Welcher Stern zeigt am Nachthimmel ungefähr die Nordrichtung an?",
+   "answer": "Polarstern",
+   "category": "Weltall",
+   "difficulty": 1
+  },
+  {
+   "id": 564,
+   "question": "Wie heißt die nächste große Nachbargalaxie der Milchstraße?",
+   "answer": "Andromedagalaxie",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 565,
+   "question": "Wie heißt die Raumstation, die seit 1998 im Erdorbit zusammengebaut wurde?",
+   "answer": "ISS (Internationale Raumstation)",
+   "category": "Weltall",
+   "difficulty": 1
+  },
+  {
+   "id": 566,
+   "question": "Wer flog 1963 als erste Frau ins Weltall?",
+   "answer": "Walentina Tereschkowa",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 567,
+   "question": "Wer flog 1978 als erster Deutscher ins Weltall?",
+   "answer": "Sigmund Jähn",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 568,
+   "question": "Wie heißt die Raumfahrtbehörde der USA?",
+   "answer": "NASA",
+   "category": "Weltall",
+   "difficulty": 1
+  },
+  {
+   "id": 569,
+   "question": "Wie heißt ein Objekt, dessen Schwerkraft so stark ist, dass nicht einmal Licht entkommt?",
+   "answer": "Schwarzes Loch",
+   "category": "Weltall",
+   "difficulty": 1
+  },
+  {
+   "id": 570,
+   "question": "Welcher Komet kehrt etwa alle 76 Jahre in Erdnähe zurück?",
+   "answer": "Halleyscher Komet",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 571,
+   "question": "Welcher Planet ist nach dem römischen Gott des Meeres benannt?",
+   "answer": "Neptun",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 572,
+   "question": "Welcher Planet ist nach der römischen Göttin der Liebe benannt?",
+   "answer": "Venus",
+   "category": "Weltall",
+   "difficulty": 1
+  },
+  {
+   "id": 573,
+   "question": "Wie lange braucht der Mond ungefähr für eine Umrundung der Erde?",
+   "answer": "ca. 27 Tage (von Neumond zu Neumond ca. 29,5 Tage – beides gelten lassen)",
+   "category": "Weltall",
+   "difficulty": 3
+  },
+  {
+   "id": 574,
+   "question": "Wie heißt die Zone mit unzähligen kleinen Himmelskörpern zwischen Mars und Jupiter?",
+   "answer": "Asteroidengürtel",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 575,
+   "question": "Welches Weltraumteleskop wurde 1990 gestartet und ist nach einem US-Astronomen benannt?",
+   "answer": "Hubble",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 576,
+   "question": "Wie nennt man die gewaltige Explosion eines Sterns am Ende seines Lebens?",
+   "answer": "Supernova",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 577,
+   "question": "Wer betrat 1969 als zweiter Mensch den Mond?",
+   "answer": "Buzz Aldrin",
+   "category": "Weltall",
+   "difficulty": 2
+  },
+  {
+   "id": 578,
+   "question": "Wie heißt ein junges Reh?",
+   "answer": "Kitz (Rehkitz)",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 579,
+   "question": "Wie heißt ein weibliches Pferd?",
+   "answer": "Stute",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 580,
+   "question": "Wie heißt ein männliches Schwein?",
+   "answer": "Eber",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 581,
+   "question": "Welches Tier staut mit selbst gefällten Bäumen Bäche zu Teichen auf?",
+   "answer": "Biber",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 582,
+   "question": "Welche Insekten leben in Staaten mit einer Königin und bauen Hügel aus Nadeln?",
+   "answer": "Ameisen (Waldameisen)",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 583,
+   "question": "Welcher Vogel kann als einziger auch rückwärts fliegen?",
+   "answer": "Kolibri",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 584,
+   "question": "Wie viele Magenabschnitte hat eine Kuh?",
+   "answer": "4 (Pansen, Netzmagen, Blättermagen, Labmagen)",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 585,
+   "question": "Welches Reptil kann seine Farbe wechseln und beide Augen unabhängig voneinander bewegen?",
+   "answer": "Chamäleon",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 586,
+   "question": "Welches ist das größte Nagetier der Welt?",
+   "answer": "Wasserschwein (Capybara)",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 587,
+   "question": "Welcher Baum ist mit seinem Blatt auf der Flagge Kanadas abgebildet?",
+   "answer": "Ahorn",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 588,
+   "question": "Welche Baumart erreicht die größten Höhen der Welt (über 115 m)?",
+   "answer": "Küstenmammutbaum (Redwood)",
+   "category": "Natur",
+   "difficulty": 3
+  },
+  {
+   "id": 589,
+   "question": "Wie nennt man Tiere, die sowohl Pflanzen als auch Fleisch fressen?",
+   "answer": "Allesfresser (Omnivoren)",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 590,
+   "question": "Aus welcher Pflanze wird Leinen hergestellt?",
+   "answer": "Flachs (Lein)",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 591,
+   "question": "Welche Blume gilt als Symbol der Niederlande?",
+   "answer": "Tulpe",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 592,
+   "question": "Wie nennt man die Verwandlung einer Raupe in einen Schmetterling?",
+   "answer": "Metamorphose",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 593,
+   "question": "Welches afrikanische Pferdetier hat schwarz-weiße Streifen?",
+   "answer": "Zebra",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 594,
+   "question": "Welcher giftige Pilz hat einen roten Hut mit weißen Punkten?",
+   "answer": "Fliegenpilz",
+   "category": "Natur",
+   "difficulty": 1
+  },
+  {
+   "id": 595,
+   "question": "Wie viele Augen hat eine Honigbiene?",
+   "answer": "5 (2 Facettenaugen und 3 Punktaugen)",
+   "category": "Natur",
+   "difficulty": 3
+  },
+  {
+   "id": 596,
+   "question": "Welches Säugetier kann über 200 Jahre alt werden?",
+   "answer": "Grönlandwal",
+   "category": "Natur",
+   "difficulty": 3
+  },
+  {
+   "id": 597,
+   "question": "Wie heißt ein männliches Reh?",
+   "answer": "Rehbock (Bock)",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 598,
+   "question": "Welcher Wal trägt einen langen, gedrehten Stoßzahn und heißt „Einhorn der Meere“?",
+   "answer": "Narwal",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 599,
+   "question": "Wie nennt man eine Gruppe von Löwen?",
+   "answer": "Rudel",
+   "category": "Natur",
+   "difficulty": 2
+  },
+  {
+   "id": 600,
+   "question": "Wer schrieb das Epos „Odyssee“?",
+   "answer": "Homer",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 601,
+   "question": "Wer schrieb „Die Göttliche Komödie“?",
+   "answer": "Dante Alighieri",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 602,
+   "question": "Wer schrieb „Der Zauberberg“?",
+   "answer": "Thomas Mann",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 603,
+   "question": "Wer schrieb „Nathan der Weise“?",
+   "answer": "Gotthold Ephraim Lessing",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 604,
+   "question": "Wer schrieb das Drama „Wilhelm Tell“?",
+   "answer": "Friedrich Schiller",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 605,
+   "question": "Wer schrieb die Novelle „Der Schimmelreiter“?",
+   "answer": "Theodor Storm",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 606,
+   "question": "Wer schrieb „Momo“?",
+   "answer": "Michael Ende",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 607,
+   "question": "Wer schrieb „Robinson Crusoe“?",
+   "answer": "Daniel Defoe",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 608,
+   "question": "Wer schrieb „Alice im Wunderland“?",
+   "answer": "Lewis Carroll",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 609,
+   "question": "Wer schrieb „Die Schatzinsel“?",
+   "answer": "Robert Louis Stevenson",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 610,
+   "question": "Wer schrieb „Oliver Twist“?",
+   "answer": "Charles Dickens",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 611,
+   "question": "Wer schrieb „Schuld und Sühne“ (auch „Verbrechen und Strafe“)?",
+   "answer": "Fjodor Dostojewski",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 612,
+   "question": "Wer schrieb „Der alte Mann und das Meer“?",
+   "answer": "Ernest Hemingway",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 613,
+   "question": "Wer schrieb die Komödie „Die Physiker“?",
+   "answer": "Friedrich Dürrenmatt",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 614,
+   "question": "Wer schrieb „Max und Moritz“?",
+   "answer": "Wilhelm Busch",
+   "category": "Literatur",
+   "difficulty": 1
+  },
+  {
+   "id": 615,
+   "question": "Wer schrieb „Heidi“?",
+   "answer": "Johanna Spyri",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 616,
+   "question": "Wer schrieb den Roman „Das Parfum“?",
+   "answer": "Patrick Süskind",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 617,
+   "question": "Welcher Hobbit trägt in „Der Herr der Ringe“ den Einen Ring nach Mordor?",
+   "answer": "Frodo Beutlin",
+   "category": "Literatur",
+   "difficulty": 1
+  },
+  {
+   "id": 618,
+   "question": "Wie heißt die Zauberschule in „Harry Potter“?",
+   "answer": "Hogwarts",
+   "category": "Literatur",
+   "difficulty": 1
+  },
+  {
+   "id": 619,
+   "question": "Wer schrieb „Frankenstein“?",
+   "answer": "Mary Shelley",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 620,
+   "question": "Wer schrieb „Dracula“?",
+   "answer": "Bram Stoker",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 621,
+   "question": "Welcher belgische Meisterdetektiv stammt aus den Romanen von Agatha Christie?",
+   "answer": "Hercule Poirot",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 622,
+   "question": "Wer schrieb „Die Abenteuer des Tom Sawyer“?",
+   "answer": "Mark Twain",
+   "category": "Literatur",
+   "difficulty": 2
+  },
+  {
+   "id": 623,
+   "question": "Wer schrieb das Kinderbuch „Der Struwwelpeter“?",
+   "answer": "Heinrich Hoffmann",
+   "category": "Literatur",
+   "difficulty": 3
+  },
+  {
+   "id": 624,
+   "question": "Wer komponierte „Eine kleine Nachtmusik“?",
+   "answer": "Wolfgang Amadeus Mozart",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 625,
+   "question": "In welcher Stadt wurde Mozart geboren?",
+   "answer": "Salzburg",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 626,
+   "question": "In welcher Stadt wurde Beethoven geboren?",
+   "answer": "Bonn",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 627,
+   "question": "Wer komponierte den berühmten „Hochzeitsmarsch“ aus „Ein Sommernachtstraum“?",
+   "answer": "Felix Mendelssohn Bartholdy",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 628,
+   "question": "Wer komponierte die „Brandenburgischen Konzerte“?",
+   "answer": "Johann Sebastian Bach",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 629,
+   "question": "Wer komponierte den Walzer „An der schönen blauen Donau“?",
+   "answer": "Johann Strauss (Sohn)",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 630,
+   "question": "Wie viele Musiker spielen in einem Streichquartett?",
+   "answer": "4",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 631,
+   "question": "Welches Streichinstrument hält man beim Spielen unter dem Kinn?",
+   "answer": "Geige (Violine – Bratsche auch gelten lassen)",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 632,
+   "question": "Welches ist das größte und tiefste Streichinstrument im Orchester?",
+   "answer": "Kontrabass",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 633,
+   "question": "Welches Blechblasinstrument hat einen Zug statt Ventilen?",
+   "answer": "Posaune",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 634,
+   "question": "Mit welchem Lied gewann ABBA 1974 den Eurovision Song Contest?",
+   "answer": "„Waterloo“",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 635,
+   "question": "Welche Band veröffentlichte 1975 „Bohemian Rhapsody“?",
+   "answer": "Queen",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 636,
+   "question": "Welche deutsche Band ist für „Du hast“ und „Sonne“ bekannt?",
+   "answer": "Rammstein",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 637,
+   "question": "Welche Sängerin landete 1983 mit „99 Luftballons“ einen Welthit?",
+   "answer": "Nena",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 638,
+   "question": "Wer sang 2013 „Atemlos durch die Nacht“?",
+   "answer": "Helene Fischer",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 639,
+   "question": "Welche Sängerin heißt mit bürgerlichem Namen Stefani Germanotta?",
+   "answer": "Lady Gaga",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 640,
+   "question": "Welche Band bestand aus John, Paul, George und Ringo?",
+   "answer": "The Beatles",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 641,
+   "question": "Wie heißt der Sänger der Rolling Stones?",
+   "answer": "Mick Jagger",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 642,
+   "question": "Welcher Rapper heißt mit bürgerlichem Namen Marshall Mathers?",
+   "answer": "Eminem",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 643,
+   "question": "Aus welchem Land stammt die Band U2?",
+   "answer": "Irland",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 644,
+   "question": "Aus welchem Land stammt die Band AC/DC?",
+   "answer": "Australien",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 645,
+   "question": "Aus wie vielen Halbtonschritten besteht eine Oktave?",
+   "answer": "12",
+   "category": "Musik",
+   "difficulty": 3
+  },
+  {
+   "id": 646,
+   "question": "Was bedeutet die Spielanweisung „forte“?",
+   "answer": "laut (kräftig)",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 647,
+   "question": "Was bedeutet die Spielanweisung „piano“?",
+   "answer": "leise",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 648,
+   "question": "Wer komponierte das Klavierstück „Für Elise“?",
+   "answer": "Ludwig van Beethoven",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 649,
+   "question": "Wie hieß das legendäre Musikfestival 1969 im US-Bundesstaat New York?",
+   "answer": "Woodstock",
+   "category": "Musik",
+   "difficulty": 2
+  },
+  {
+   "id": 650,
+   "question": "Welche Sängerin wird „Queen of Pop“ genannt?",
+   "answer": "Madonna",
+   "category": "Musik",
+   "difficulty": 1
+  },
+  {
+   "id": 651,
+   "question": "Was ist die Hauptstadt von Bayern?",
+   "answer": "München",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 652,
+   "question": "Was ist die Hauptstadt von Baden-Württemberg?",
+   "answer": "Stuttgart",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 653,
+   "question": "Was ist die Hauptstadt von Thüringen?",
+   "answer": "Erfurt",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 654,
+   "question": "Was ist die Hauptstadt von Sachsen-Anhalt?",
+   "answer": "Magdeburg",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 655,
+   "question": "Was ist die Hauptstadt von Mecklenburg-Vorpommern?",
+   "answer": "Schwerin (nicht Rostock!)",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 656,
+   "question": "Was ist die Hauptstadt von Rheinland-Pfalz?",
+   "answer": "Mainz",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 657,
+   "question": "Was ist die Hauptstadt des Saarlandes?",
+   "answer": "Saarbrücken",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 658,
+   "question": "Was ist die Hauptstadt von Brandenburg?",
+   "answer": "Potsdam",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 659,
+   "question": "Welche drei Bundesländer sind Stadtstaaten?",
+   "answer": "Berlin, Hamburg und Bremen",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 660,
+   "question": "In welcher Stadt findet das Oktoberfest statt?",
+   "answer": "München",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 661,
+   "question": "In welcher Stadt steht das Holstentor?",
+   "answer": "Lübeck",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 662,
+   "question": "Welches Märchenschloss ließ König Ludwig II. in den Allgäuer Alpen bauen?",
+   "answer": "Schloss Neuschwanstein",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 663,
+   "question": "Welche ist die größte Insel Deutschlands?",
+   "answer": "Rügen",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 664,
+   "question": "In welchem Mittelgebirge liegt der Brocken?",
+   "answer": "Harz",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 665,
+   "question": "Wie heißt die Wasserstraße, die Nord- und Ostsee durch Schleswig-Holstein verbindet?",
+   "answer": "Nord-Ostsee-Kanal",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 666,
+   "question": "Welche Stadt ist für Lebkuchen und den Christkindlesmarkt berühmt?",
+   "answer": "Nürnberg",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 667,
+   "question": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+   "answer": "„Einigkeit und Recht und Freiheit“",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 668,
+   "question": "Wer dichtete 1841 das „Lied der Deutschen“?",
+   "answer": "August Heinrich Hoffmann von Fallersleben",
+   "category": "Deutschland",
+   "difficulty": 3
+  },
+  {
+   "id": 669,
+   "question": "Welche ist die längste Autobahn Deutschlands?",
+   "answer": "A7 (von Flensburg bis Füssen)",
+   "category": "Deutschland",
+   "difficulty": 3
+  },
+  {
+   "id": 670,
+   "question": "Welcher Fluss bildet einen großen Teil der Grenze zu Polen?",
+   "answer": "Oder (zusammen mit der Neiße)",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 671,
+   "question": "Zu welchem Bundesland gehört die Blumeninsel Mainau im Bodensee?",
+   "answer": "Baden-Württemberg",
+   "category": "Deutschland",
+   "difficulty": 3
+  },
+  {
+   "id": 672,
+   "question": "In welcher Stadt hat das Bundesverfassungsgericht seinen Sitz?",
+   "answer": "Karlsruhe",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 673,
+   "question": "In welcher Stadt hat die Europäische Zentralbank ihren Sitz?",
+   "answer": "Frankfurt am Main",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 674,
+   "question": "Wie hieß die Währung der Bundesrepublik vor dem Euro?",
+   "answer": "Deutsche Mark (D-Mark)",
+   "category": "Deutschland",
+   "difficulty": 1
+  },
+  {
+   "id": 675,
+   "question": "Bei welcher Stadt steht die Wartburg, auf der Luther das Neue Testament übersetzte?",
+   "answer": "Eisenach",
+   "category": "Deutschland",
+   "difficulty": 3
+  },
+  {
+   "id": 676,
+   "question": "Welches Bundesland hat die meisten Einwohner?",
+   "answer": "Nordrhein-Westfalen",
+   "category": "Deutschland",
+   "difficulty": 2
+  },
+  {
+   "id": 677,
+   "question": "Wie viele Chromosomen hat ein Mensch normalerweise?",
+   "answer": "46 (23 Paare)",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 678,
+   "question": "Wie viele Wirbel hat die Halswirbelsäule?",
+   "answer": "7",
+   "category": "Mensch",
+   "difficulty": 3
+  },
+  {
+   "id": 679,
+   "question": "Wie heißt die Hauptschlagader des Körpers?",
+   "answer": "Aorta",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 680,
+   "question": "Welche Blutgruppe gilt als Universalempfänger?",
+   "answer": "AB positiv",
+   "category": "Mensch",
+   "difficulty": 3
+  },
+  {
+   "id": 681,
+   "question": "Welches Vitamin steckt besonders reichlich in Zitrusfrüchten?",
+   "answer": "Vitamin C",
+   "category": "Mensch",
+   "difficulty": 1
+  },
+  {
+   "id": 682,
+   "question": "An welcher Vitaminmangel-Krankheit litten früher viele Seefahrer?",
+   "answer": "Skorbut (Vitamin-C-Mangel)",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 683,
+   "question": "In welchem Körperteil sitzen Hammer, Amboss und Steigbügel?",
+   "answer": "Im Ohr (Mittelohr)",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 684,
+   "question": "Wie heißt das medizinische Fachgebiet der Kinderheilkunde?",
+   "answer": "Pädiatrie",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 685,
+   "question": "Wie heißt das medizinische Fachgebiet für Hautkrankheiten?",
+   "answer": "Dermatologie",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 686,
+   "question": "Was zeichnet ein EKG auf?",
+   "answer": "Die elektrische Aktivität des Herzens",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 687,
+   "question": "Wie hoch ist die normale Körpertemperatur des Menschen ungefähr?",
+   "answer": "ca. 37 °C",
+   "category": "Mensch",
+   "difficulty": 1
+  },
+  {
+   "id": 688,
+   "question": "In welchem Organ wird die Nahrung nach dem Magen hauptsächlich verdaut und aufgenommen?",
+   "answer": "Dünndarm",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 689,
+   "question": "Wie oft schlägt das Herz eines Erwachsenen in Ruhe ungefähr pro Minute?",
+   "answer": "ca. 60–80-mal (Normbereich 60–100)",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 690,
+   "question": "Welches Hormon schüttet der Körper bei Stress und Gefahr blitzschnell aus?",
+   "answer": "Adrenalin",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 691,
+   "question": "Welcher Teil des Gehirns steuert vor allem Gleichgewicht und Bewegungskoordination?",
+   "answer": "Kleinhirn",
+   "category": "Mensch",
+   "difficulty": 3
+  },
+  {
+   "id": 692,
+   "question": "Wie heißen die Blutzellen, die Sauerstoff transportieren?",
+   "answer": "Rote Blutkörperchen (Erythrozyten)",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 693,
+   "question": "Wie heißen die Blutzellen, die für die Blutgerinnung sorgen?",
+   "answer": "Blutplättchen (Thrombozyten)",
+   "category": "Mensch",
+   "difficulty": 3
+  },
+  {
+   "id": 694,
+   "question": "Wie heißt die Krankheit, bei der die Knochen an Dichte verlieren und leicht brechen?",
+   "answer": "Osteoporose",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 695,
+   "question": "Aus welchem Eiweiß bestehen Haare und Fingernägel hauptsächlich?",
+   "answer": "Keratin",
+   "category": "Mensch",
+   "difficulty": 3
+  },
+  {
+   "id": 696,
+   "question": "Wie heißt der Knochen des Oberarms?",
+   "answer": "Oberarmknochen (Humerus)",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 697,
+   "question": "Welche Augenfarbe ist weltweit am häufigsten?",
+   "answer": "Braun",
+   "category": "Mensch",
+   "difficulty": 2
+  },
+  {
+   "id": 698,
+   "question": "Welches Organ pumpt das Blut durch den Körper?",
+   "answer": "Das Herz",
+   "category": "Mensch",
+   "difficulty": 1
+  },
+  {
+   "id": 699,
+   "question": "Was heißt „Danke“ auf Französisch?",
+   "answer": "Merci",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 700,
+   "question": "Was heißt „Danke“ auf Portugiesisch?",
+   "answer": "Obrigado (Frauen sagen „Obrigada“)",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 701,
+   "question": "Mit welchem Wort grüßt man auf Hawaii?",
+   "answer": "Aloha",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 702,
+   "question": "Was ruft man in Spanien beim Anstoßen?",
+   "answer": "¡Salud!",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 703,
+   "question": "Was bedeutet das englische Wort „squirrel“?",
+   "answer": "Eichhörnchen",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 704,
+   "question": "Was heißt „Ich liebe dich“ auf Französisch?",
+   "answer": "Je t’aime",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 705,
+   "question": "Was bedeutet „Dolce Vita“?",
+   "answer": "Das süße Leben",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 706,
+   "question": "Was bedeutet „Déjà-vu“ wörtlich?",
+   "answer": "schon gesehen",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 707,
+   "question": "Welches deutsche Wort für Furcht wird auch im Englischen benutzt?",
+   "answer": "Angst",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 708,
+   "question": "Wie heißt die Punktschrift für blinde Menschen?",
+   "answer": "Brailleschrift (Blindenschrift)",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 709,
+   "question": "Wofür steht die Abkürzung „ASAP“?",
+   "answer": "As soon as possible (so schnell wie möglich)",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 710,
+   "question": "Wofür steht „u. A. w. g.“ auf Einladungen?",
+   "answer": "um Antwort wird gebeten",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 711,
+   "question": "Wofür steht „RSVP“ auf Einladungen?",
+   "answer": "Répondez s’il vous plaît (Antworten Sie bitte)",
+   "category": "Sprache",
+   "difficulty": 3
+  },
+  {
+   "id": 712,
+   "question": "Wie heißt das Satzzeichen „;“?",
+   "answer": "Semikolon (Strichpunkt)",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 713,
+   "question": "Wie nennt man ein Wort mit gegenteiliger Bedeutung?",
+   "answer": "Antonym (Gegenwort)",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 714,
+   "question": "Wie nennt man ein Wort mit gleicher oder ähnlicher Bedeutung?",
+   "answer": "Synonym",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 715,
+   "question": "Was bedeutet „Tempus fugit“?",
+   "answer": "Die Zeit flieht (vergeht)",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 716,
+   "question": "Was bedeutet „In vino veritas“?",
+   "answer": "Im Wein liegt die Wahrheit",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 717,
+   "question": "Was bedeutet „et cetera“ (etc.)?",
+   "answer": "und so weiter (und die übrigen)",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 718,
+   "question": "Wie viele Landessprachen hat die Schweiz?",
+   "answer": "4 (Deutsch, Französisch, Italienisch, Rätoromanisch)",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 719,
+   "question": "In welchem Land Südamerikas ist Niederländisch Amtssprache?",
+   "answer": "Suriname",
+   "category": "Sprache",
+   "difficulty": 3
+  },
+  {
+   "id": 720,
+   "question": "Welche Sprache ist Amtssprache im Iran?",
+   "answer": "Persisch (Farsi)",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 721,
+   "question": "Welche Amtssprache hat Angola?",
+   "answer": "Portugiesisch",
+   "category": "Sprache",
+   "difficulty": 3
+  },
+  {
+   "id": 722,
+   "question": "Wie viele Buchstaben hat das griechische Alphabet?",
+   "answer": "24",
+   "category": "Sprache",
+   "difficulty": 3
+  },
+  {
+   "id": 723,
+   "question": "Wie heißt der erste Buchstabe des griechischen Alphabets?",
+   "answer": "Alpha",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 724,
+   "question": "Welche Schrift wird im Russischen verwendet?",
+   "answer": "Kyrillisch",
+   "category": "Sprache",
+   "difficulty": 2
+  },
+  {
+   "id": 725,
+   "question": "Was bedeutet das japanische „Sayōnara“?",
+   "answer": "Auf Wiedersehen",
+   "category": "Sprache",
+   "difficulty": 1
+  },
+  {
+   "id": 726,
+   "question": "Was bedeutet „Feng Shui“ wörtlich?",
+   "answer": "Wind und Wasser",
+   "category": "Sprache",
+   "difficulty": 3
+  },
+  {
+   "id": 727,
+   "question": "Wie viele Spieler einer Wasserball-Mannschaft sind gleichzeitig im Wasser (inkl. Torwart)?",
+   "answer": "7",
+   "category": "Sport",
+   "difficulty": 3
+  },
+  {
+   "id": 728,
+   "question": "In welcher Sportart gibt es „Strike“ und „Spare“?",
+   "answer": "Bowling",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 729,
+   "question": "Wie viele Pins stehen beim Bowling?",
+   "answer": "10",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 730,
+   "question": "Wie viele Kegel stehen beim klassischen deutschen Kegeln?",
+   "answer": "9",
+   "category": "Sport",
+   "difficulty": 3
+  },
+  {
+   "id": 731,
+   "question": "In welcher Sportart wird der Stanley Cup vergeben?",
+   "answer": "Eishockey",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 732,
+   "question": "Wie lautet beim Tennis der Spielstand nach dem ersten gewonnenen Punkt?",
+   "answer": "15",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 733,
+   "question": "Wie viele Grand-Slam-Turniere gibt es im Tennis pro Jahr?",
+   "answer": "4",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 734,
+   "question": "Aus welchem Land stammt der Kampfsport Judo?",
+   "answer": "Japan",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 735,
+   "question": "Aus welchem Land stammt der Kampfsport Taekwondo?",
+   "answer": "Korea (Südkorea)",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 736,
+   "question": "In welcher Höhe hängt ein Basketballkorb?",
+   "answer": "3,05 m",
+   "category": "Sport",
+   "difficulty": 3
+  },
+  {
+   "id": 737,
+   "question": "Wie lange dauert ein Handballspiel bei Erwachsenen (reine Spielzeit)?",
+   "answer": "60 Minuten (2 × 30)",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 738,
+   "question": "Wie lange dauert ein NBA-Basketballspiel (reine Spielzeit)?",
+   "answer": "48 Minuten (4 × 12)",
+   "category": "Sport",
+   "difficulty": 3
+  },
+  {
+   "id": 739,
+   "question": "Welches Land gewann 1930 die erste Fußball-Weltmeisterschaft?",
+   "answer": "Uruguay",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 740,
+   "question": "Welches Land gewann die Fußball-WM 2022 in Katar?",
+   "answer": "Argentinien",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 741,
+   "question": "Welcher deutsche Rennfahrer wurde siebenmal Formel-1-Weltmeister?",
+   "answer": "Michael Schumacher",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 742,
+   "question": "Welcher britische Fahrer wurde 2008 erstmals Formel-1-Weltmeister?",
+   "answer": "Lewis Hamilton",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 743,
+   "question": "Welche deutsche Tennisspielerin gewann 1988 den „Golden Slam“?",
+   "answer": "Steffi Graf",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 744,
+   "question": "Wie alt war Boris Becker bei seinem ersten Wimbledon-Sieg 1985?",
+   "answer": "17",
+   "category": "Sport",
+   "difficulty": 3
+  },
+  {
+   "id": 745,
+   "question": "Welcher Sprinter lief 2009 den 100-m-Weltrekord von 9,58 Sekunden?",
+   "answer": "Usain Bolt",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 746,
+   "question": "Welche Schachfigur zieht in L-Form und kann über andere Figuren springen?",
+   "answer": "Springer",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 747,
+   "question": "Welcher Verein ist deutscher Fußball-Rekordmeister?",
+   "answer": "FC Bayern München",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 748,
+   "question": "In welcher Sportart gibt es die Position „Quarterback“?",
+   "answer": "American Football",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 749,
+   "question": "Wie heißt das gefiederte Spielgerät beim Badminton?",
+   "answer": "Federball (Shuttlecock)",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 750,
+   "question": "Wie viele Pfeile wirft ein Spieler beim Darts pro Aufnahme?",
+   "answer": "3",
+   "category": "Sport",
+   "difficulty": 2
+  },
+  {
+   "id": 751,
+   "question": "Welche Farbe hat das Trikot des Gesamtführenden der Tour de France?",
+   "answer": "Gelb",
+   "category": "Sport",
+   "difficulty": 1
+  },
+  {
+   "id": 752,
+   "question": "Was ist 8 × 9?",
+   "answer": "72",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 753,
+   "question": "Was ist 17 × 3?",
+   "answer": "51",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 754,
+   "question": "Was ist die Wurzel aus 225?",
+   "answer": "15",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 755,
+   "question": "Wie schreibt man ¼ als Dezimalzahl?",
+   "answer": "0,25",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 756,
+   "question": "Wie viele Flächen hat ein Würfel?",
+   "answer": "6",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 757,
+   "question": "Wie viele Flächen hat ein Ikosaeder?",
+   "answer": "20",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 758,
+   "question": "Wie groß ist jeder Innenwinkel eines gleichseitigen Dreiecks?",
+   "answer": "60°",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 759,
+   "question": "Was ist 3 hoch 4?",
+   "answer": "81",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 760,
+   "question": "Wie viel sind 12 % von 50?",
+   "answer": "6",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 761,
+   "question": "Wie viele Sekunden hat ein Tag?",
+   "answer": "86.400",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 762,
+   "question": "Wie viele Stunden hat ein Jahr (kein Schaltjahr)?",
+   "answer": "8.760",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 763,
+   "question": "Welche römische Zahl steht für 1000?",
+   "answer": "M",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 764,
+   "question": "Welche Jahreszahl ist MCMXC?",
+   "answer": "1990",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 765,
+   "question": "Wie nennt man das Ergebnis einer Multiplikation?",
+   "answer": "Produkt",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 766,
+   "question": "Wie nennt man das Ergebnis einer Division?",
+   "answer": "Quotient",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 767,
+   "question": "Wie heißt die längste Seite in einem rechtwinkligen Dreieck?",
+   "answer": "Hypotenuse",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 768,
+   "question": "Wie lautet der Satz des Pythagoras?",
+   "answer": "a² + b² = c²",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 769,
+   "question": "Wie viele Primzahlen gibt es zwischen 1 und 20?",
+   "answer": "8 (2, 3, 5, 7, 11, 13, 17, 19)",
+   "category": "Mathe",
+   "difficulty": 3
+  },
+  {
+   "id": 770,
+   "question": "Wie geht die Folge weiter: 1, 1, 2, 3, 5, 8, …?",
+   "answer": "13 (Fibonacci-Folge)",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 771,
+   "question": "Wie viele Nullen hat eine Milliarde?",
+   "answer": "9",
+   "category": "Mathe",
+   "difficulty": 1
+  },
+  {
+   "id": 772,
+   "question": "Was ist 0,2 × 0,5?",
+   "answer": "0,1",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 773,
+   "question": "Wie viele Liter passen in einen Kubikmeter?",
+   "answer": "1.000",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 774,
+   "question": "Wie viele Quadratmeter hat ein Hektar?",
+   "answer": "10.000",
+   "category": "Mathe",
+   "difficulty": 2
+  },
+  {
+   "id": 775,
+   "question": "Wofür steht die Abkürzung „CPU“?",
+   "answer": "Central Processing Unit (Hauptprozessor)",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 776,
+   "question": "Wofür steht die Abkürzung „RAM“?",
+   "answer": "Random Access Memory (Arbeitsspeicher)",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 777,
+   "question": "Wofür steht die Abkürzung „URL“?",
+   "answer": "Uniform Resource Locator",
+   "category": "Technik",
+   "difficulty": 3
+  },
+  {
+   "id": 778,
+   "question": "Wofür steht die Abkürzung „LED“?",
+   "answer": "Light Emitting Diode (Leuchtdiode)",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 779,
+   "question": "Wofür steht die Abkürzung „SMS“?",
+   "answer": "Short Message Service",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 780,
+   "question": "Wie heißt das Smartphone-Betriebssystem von Google?",
+   "answer": "Android",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 781,
+   "question": "Welches Unternehmen stellt die PlayStation her?",
+   "answer": "Sony",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 782,
+   "question": "Welches Unternehmen stellt die Switch her?",
+   "answer": "Nintendo",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 783,
+   "question": "Wie viele Kilobyte hat ein Megabyte, wenn man binär rechnet?",
+   "answer": "1.024 (dezimal 1.000 auch gelten lassen)",
+   "category": "Technik",
+   "difficulty": 3
+  },
+  {
+   "id": 784,
+   "question": "Wer gründete 2002 das Raumfahrtunternehmen SpaceX?",
+   "answer": "Elon Musk",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 785,
+   "question": "Nach welchem Erfinder ist der Autohersteller Tesla benannt?",
+   "answer": "Nikola Tesla",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 786,
+   "question": "Wer erfand den nach ihm benannten selbstzündenden Motor?",
+   "answer": "Rudolf Diesel",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 787,
+   "question": "Wem gelang 1903 der erste gesteuerte Motorflug?",
+   "answer": "Den Gebrüdern Wright",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 788,
+   "question": "Welcher deutsche Flugpionier unternahm ab 1891 Gleitflüge?",
+   "answer": "Otto Lilienthal",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 789,
+   "question": "Wofür steht „QR“ im QR-Code?",
+   "answer": "Quick Response",
+   "category": "Technik",
+   "difficulty": 3
+  },
+  {
+   "id": 790,
+   "question": "Wie heißt die Suchmaschine von Microsoft?",
+   "answer": "Bing",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 791,
+   "question": "Wie viele Bit hat eine IPv4-Adresse?",
+   "answer": "32",
+   "category": "Technik",
+   "difficulty": 3
+  },
+  {
+   "id": 792,
+   "question": "Welche Programmiersprache ist nach der Komikertruppe Monty Python benannt?",
+   "answer": "Python",
+   "category": "Technik",
+   "difficulty": 3
+  },
+  {
+   "id": 793,
+   "question": "Wofür steht das „S“ in „HTTPS“?",
+   "answer": "Secure (sicher)",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 794,
+   "question": "Wer entwickelte 1991 den Linux-Kernel?",
+   "answer": "Linus Torvalds",
+   "category": "Technik",
+   "difficulty": 2
+  },
+  {
+   "id": 795,
+   "question": "Welches Unternehmen entwickelt das Betriebssystem Windows?",
+   "answer": "Microsoft",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 796,
+   "question": "Wofür steht die Abkürzung „DVD“?",
+   "answer": "Digital Versatile Disc (ursprünglich Digital Video Disc)",
+   "category": "Technik",
+   "difficulty": 3
+  },
+  {
+   "id": 797,
+   "question": "Welches Unternehmen entwickelte den Chatbot ChatGPT?",
+   "answer": "OpenAI",
+   "category": "Technik",
+   "difficulty": 1
+  },
+  {
+   "id": 798,
+   "question": "Welcher italienische Ingenieur gilt als Pionier der Funktechnik und erhielt 1909 den Physik-Nobelpreis?",
+   "answer": "Guglielmo Marconi",
+   "category": "Technik",
+   "difficulty": 3
+  },
+  {
+   "id": 799,
+   "question": "Wer malte „Der Garten der Lüste“?",
+   "answer": "Hieronymus Bosch",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 800,
+   "question": "Welcher Künstler malte zerfließende Uhren in „Die Beständigkeit der Erinnerung“?",
+   "answer": "Salvador Dalí",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 801,
+   "question": "Welcher US-Maler wurde mit getropfter und geschleuderter Farbe („Drip Painting“) berühmt?",
+   "answer": "Jackson Pollock",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 802,
+   "question": "Welcher Pop-Art-Künstler malte Bilder im Comic-Stil mit Rasterpunkten?",
+   "answer": "Roy Lichtenstein",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 803,
+   "question": "Wer malte „Die Freiheit führt das Volk“ (1830)?",
+   "answer": "Eugène Delacroix",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 804,
+   "question": "Welche Kunstrichtung begründeten Pablo Picasso und Georges Braque?",
+   "answer": "Kubismus",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 805,
+   "question": "Welcher Maler des „Blauen Reiters“ ist für seine blauen Pferde bekannt?",
+   "answer": "Franz Marc",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 806,
+   "question": "Welcher russische Maler gründete den „Blauen Reiter“ mit und gilt als Pionier der abstrakten Malerei?",
+   "answer": "Wassily Kandinsky",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 807,
+   "question": "Welcher anonyme britische Street-Art-Künstler wurde mit Schablonen-Graffiti berühmt?",
+   "answer": "Banksy",
+   "category": "Kunst",
+   "difficulty": 1
+  },
+  {
+   "id": 808,
+   "question": "Welche drei Farben gelten in der Malerei als Grundfarben?",
+   "answer": "Rot, Gelb und Blau",
+   "category": "Kunst",
+   "difficulty": 1
+  },
+  {
+   "id": 809,
+   "question": "Welche Farbe entsteht, wenn man Rot und Gelb mischt?",
+   "answer": "Orange",
+   "category": "Kunst",
+   "difficulty": 1
+  },
+  {
+   "id": 810,
+   "question": "In welcher Stadt steht das Museo del Prado?",
+   "answer": "Madrid",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 811,
+   "question": "In welcher Stadt steht die Eremitage?",
+   "answer": "Sankt Petersburg",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 812,
+   "question": "In welcher Stadt befinden sich die Uffizien?",
+   "answer": "Florenz",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 813,
+   "question": "In welchem Land steht die Christusstatue „Cristo Redentor“?",
+   "answer": "Brasilien (Rio de Janeiro)",
+   "category": "Kunst",
+   "difficulty": 1
+  },
+  {
+   "id": 814,
+   "question": "Welcher Architekt entwarf die Sagrada Família?",
+   "answer": "Antoni Gaudí",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 815,
+   "question": "Welche mexikanische Malerin ist für Selbstbildnisse mit zusammengewachsenen Augenbrauen bekannt?",
+   "answer": "Frida Kahlo",
+   "category": "Kunst",
+   "difficulty": 1
+  },
+  {
+   "id": 816,
+   "question": "Wer malte „Die Toteninsel“?",
+   "answer": "Arnold Böcklin",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 817,
+   "question": "Wie nennt man Wandmalerei auf frischem, noch feuchtem Putz?",
+   "answer": "Fresko",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 818,
+   "question": "Welche Kunst- und Designschule gründete Walter Gropius 1919 in Weimar?",
+   "answer": "Bauhaus",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 819,
+   "question": "Welcher niederländische Maler wurde mit Bildern aus roten, gelben und blauen Rechtecken bekannt?",
+   "answer": "Piet Mondrian",
+   "category": "Kunst",
+   "difficulty": 2
+  },
+  {
+   "id": 820,
+   "question": "Wer malte „Bal du moulin de la Galette“ (1876)?",
+   "answer": "Pierre-Auguste Renoir",
+   "category": "Kunst",
+   "difficulty": 3
+  },
+  {
+   "id": 821,
+   "question": "Aus welchem Land stammt Kimchi?",
+   "answer": "Korea",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 822,
+   "question": "Was ist die Hauptzutat von Hummus?",
+   "answer": "Kichererbsen",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 823,
+   "question": "Aus welchem Land stammt der Feta-Käse?",
+   "answer": "Griechenland",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 824,
+   "question": "Aus welcher Milch wird Roquefort hergestellt?",
+   "answer": "Schafsmilch",
+   "category": "Essen & Trinken",
+   "difficulty": 3
+  },
+  {
+   "id": 825,
+   "question": "Welche Nudelsorte aus Apulien heißt übersetzt „Öhrchen“?",
+   "answer": "Orecchiette",
+   "category": "Essen & Trinken",
+   "difficulty": 3
+  },
+  {
+   "id": 826,
+   "question": "Welches Kraut ist die Hauptzutat von Pesto alla Genovese?",
+   "answer": "Basilikum",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 827,
+   "question": "Aus welchem Land stammt Bourbon-Whiskey?",
+   "answer": "USA",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 828,
+   "question": "Aus welchem Obst wird Calvados gebrannt?",
+   "answer": "Äpfel (teils auch Birnen)",
+   "category": "Essen & Trinken",
+   "difficulty": 3
+  },
+  {
+   "id": 829,
+   "question": "Welches Getränk wird aus Hopfen, Malz, Hefe und Wasser gebraut?",
+   "answer": "Bier",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 830,
+   "question": "Wie heißt die bayerische Vorschrift von 1516 für die Zutaten von Bier?",
+   "answer": "Reinheitsgebot",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 831,
+   "question": "Aus welcher Pflanze wird Rum hergestellt?",
+   "answer": "Zuckerrohr",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 832,
+   "question": "In welchem Land liegt die Region, aus der echter Champagner stammt?",
+   "answer": "Frankreich",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 833,
+   "question": "Welches Kaffeegetränk ist nach der Kutte der Kapuzinermönche benannt?",
+   "answer": "Cappuccino",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 834,
+   "question": "Welches Gewürz gibt Currypulver seine gelbe Farbe?",
+   "answer": "Kurkuma",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 835,
+   "question": "Woraus wird Popcorn gemacht?",
+   "answer": "Mais",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 836,
+   "question": "Wie heißt fein geschnittener, milchsauer vergorener Weißkohl?",
+   "answer": "Sauerkraut",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 837,
+   "question": "Was bedeutet der Name „Tiramisu“ übersetzt?",
+   "answer": "„Zieh mich hoch“",
+   "category": "Essen & Trinken",
+   "difficulty": 3
+  },
+  {
+   "id": 838,
+   "question": "Aus welchen Nüssen wird Marzipan hergestellt?",
+   "answer": "Mandeln",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 839,
+   "question": "Welche Hansestadt ist für ihr Marzipan berühmt?",
+   "answer": "Lübeck",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 840,
+   "question": "Welche Stadt ist für ihre „Printen“ berühmt?",
+   "answer": "Aachen",
+   "category": "Essen & Trinken",
+   "difficulty": 3
+  },
+  {
+   "id": 841,
+   "question": "Aus welchem Land stammen Pierogi (gefüllte Teigtaschen)?",
+   "answer": "Polen",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 842,
+   "question": "Wie heißt das japanische Gericht aus Gemüse oder Garnelen in knusprigem Ausbackteig?",
+   "answer": "Tempura",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 843,
+   "question": "Wie heißt die berühmte Fischsuppe aus Marseille?",
+   "answer": "Bouillabaisse",
+   "category": "Essen & Trinken",
+   "difficulty": 3
+  },
+  {
+   "id": 844,
+   "question": "Aus welcher Region der Welt stammt Couscous?",
+   "answer": "Nordafrika (Maghreb – Marokko, Algerien, Tunesien gelten lassen)",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 845,
+   "question": "Welche Frucht gehört neben Kokos in eine Piña Colada?",
+   "answer": "Ananas",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 846,
+   "question": "Wie heißt die kalte spanische Gemüsesuppe mit Tomaten?",
+   "answer": "Gazpacho",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 847,
+   "question": "Was ist Kaviar?",
+   "answer": "Fischeier (Rogen vom Stör)",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 848,
+   "question": "Welcher edle unterirdisch wachsende Pilz gilt als „Diamant der Küche“?",
+   "answer": "Trüffel",
+   "category": "Essen & Trinken",
+   "difficulty": 2
+  },
+  {
+   "id": 849,
+   "question": "Aus welchem Land stammt das Bier Guinness?",
+   "answer": "Irland",
+   "category": "Essen & Trinken",
+   "difficulty": 1
+  },
+  {
+   "id": 850,
+   "question": "Welcher ist der höchste Berg Nordamerikas?",
+   "answer": "Denali (früher Mount McKinley)",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 851,
+   "question": "Welches Land hat die längste Küstenlinie der Welt?",
+   "answer": "Kanada",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 852,
+   "question": "Welcher Fluss fließt durch Prag?",
+   "answer": "Moldau",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 853,
+   "question": "Was ist die Hauptstadt von Kroatien?",
+   "answer": "Zagreb",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 854,
+   "question": "Was ist die Hauptstadt von Marokko?",
+   "answer": "Rabat (nicht Casablanca!)",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 855,
+   "question": "Was ist die Hauptstadt von Pakistan?",
+   "answer": "Islamabad",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 856,
+   "question": "Was ist die Hauptstadt von Kolumbien?",
+   "answer": "Bogotá",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 857,
+   "question": "In welchem Land liegt der Uluru (Ayers Rock)?",
+   "answer": "Australien",
+   "category": "Geografie",
+   "difficulty": 1
+  },
+  {
+   "id": 858,
+   "question": "An der Grenze welcher zwei Länder liegen die Victoriafälle?",
+   "answer": "Sambia und Simbabwe",
+   "category": "Geografie",
+   "difficulty": 3
+  },
+  {
+   "id": 859,
+   "question": "Wie heißt das Meer zwischen Italien und der Balkanhalbinsel?",
+   "answer": "Adria (Adriatisches Meer)",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 860,
+   "question": "Welche Meerenge trennt Europa von Afrika?",
+   "answer": "Straße von Gibraltar",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 861,
+   "question": "Welches ist der größte See Afrikas?",
+   "answer": "Victoriasee",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 862,
+   "question": "Welche Wüste erstreckt sich über die südliche Mongolei und Nordchina?",
+   "answer": "Gobi",
+   "category": "Geografie",
+   "difficulty": 2
+  },
+  {
+   "id": 863,
+   "question": "Wer spielte Jack in „Titanic“ (1997)?",
+   "answer": "Leonardo DiCaprio",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 864,
+   "question": "Wer führte Regie bei „Titanic“ und „Avatar“?",
+   "answer": "James Cameron",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 865,
+   "question": "Wie heißt der kleine grüne Jedi-Meister mit dem verdrehten Satzbau?",
+   "answer": "Yoda",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 866,
+   "question": "Welchen berühmten Satz sagt Darth Vader zu Luke Skywalker (deutsche Fassung)?",
+   "answer": "„Ich bin dein Vater.“",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 867,
+   "question": "Wie heißt der junge Löwe in „Der König der Löwen“?",
+   "answer": "Simba",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 868,
+   "question": "Wie heißt der sprechende Schneemann in „Die Eiskönigin“?",
+   "answer": "Olaf",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 869,
+   "question": "Wie heißt die gelbe Zeichentrickfamilie aus Springfield?",
+   "answer": "Die Simpsons",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 870,
+   "question": "Wie heißt der Barkeeper in „Die Simpsons“?",
+   "answer": "Moe (Szyslak)",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 871,
+   "question": "Welcher Schauspieler spielte Forrest Gump?",
+   "answer": "Tom Hanks",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 872,
+   "question": "In welcher Stadt spielt die Serie „Breaking Bad“?",
+   "answer": "Albuquerque (New Mexico)",
+   "category": "Film & TV",
+   "difficulty": 3
+  },
+  {
+   "id": 873,
+   "question": "Welcher Geheimagent trägt die Nummer 007?",
+   "answer": "James Bond",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 874,
+   "question": "Wer spielte 1962 in „James Bond jagt Dr. No“ den ersten Kino-Bond?",
+   "answer": "Sean Connery",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 875,
+   "question": "Welcher Film gewann 2020 als erster nicht-englischsprachiger Film den Oscar als bester Film?",
+   "answer": "„Parasite“",
+   "category": "Film & TV",
+   "difficulty": 3
+  },
+  {
+   "id": 876,
+   "question": "Was für ein Fisch ist Nemo in „Findet Nemo“?",
+   "answer": "Clownfisch",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 877,
+   "question": "Wie heißt die Cowboy-Puppe in „Toy Story“?",
+   "answer": "Woody",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 878,
+   "question": "Wie heißt der Weltraum-Ranger in „Toy Story“?",
+   "answer": "Buzz Lightyear",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 879,
+   "question": "Wie heißen die kleinen gelben Helfer aus „Ich – Einfach unverbesserlich“?",
+   "answer": "Minions",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 880,
+   "question": "Wie heißt das fiktive afrikanische Königreich in „Black Panther“?",
+   "answer": "Wakanda",
+   "category": "Film & TV",
+   "difficulty": 3
+  },
+  {
+   "id": 881,
+   "question": "Welcher Superheld ist im echten Leben Bruce Wayne?",
+   "answer": "Batman",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 882,
+   "question": "Welcher Superheld ist im echten Leben Peter Parker?",
+   "answer": "Spider-Man",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 883,
+   "question": "Welcher Regisseur drehte „Psycho“ und „Die Vögel“?",
+   "answer": "Alfred Hitchcock",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 884,
+   "question": "Welcher Regisseur drehte „E.T.“ und „Jurassic Park“?",
+   "answer": "Steven Spielberg",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 885,
+   "question": "In welcher Serie treffen sich sechs Freunde im New Yorker Café „Central Perk“?",
+   "answer": "„Friends“",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 886,
+   "question": "In welcher Serie kämpfen Häuser wie Stark und Lennister um den Eisernen Thron?",
+   "answer": "„Game of Thrones“",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 887,
+   "question": "Welche Serie spielt in der Kleinstadt Hawkins und in der Schattenwelt „Upside Down“?",
+   "answer": "„Stranger Things“",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 888,
+   "question": "Welche ARD-Krimireihe läuft seit 1970 am Sonntagabend?",
+   "answer": "„Tatort“",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 889,
+   "question": "Wie heißt das Raumschiff von Captain Kirk?",
+   "answer": "USS Enterprise",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 890,
+   "question": "Wer spielte die Hauptrolle neben Richard Gere in „Pretty Woman“?",
+   "answer": "Julia Roberts",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 891,
+   "question": "Wie heißt der Hauptpreis der Berlinale?",
+   "answer": "Goldener Bär",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 892,
+   "question": "Wie heißt der Hauptpreis der Filmfestspiele von Cannes?",
+   "answer": "Goldene Palme",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 893,
+   "question": "Wie heißt der Hauptpreis der Filmfestspiele von Venedig?",
+   "answer": "Goldener Löwe",
+   "category": "Film & TV",
+   "difficulty": 3
+  },
+  {
+   "id": 894,
+   "question": "Welches Tier begleitet die Maus in der „Sendung mit der Maus“ als kleiner blauer Freund?",
+   "answer": "Elefant",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 895,
+   "question": "Wer moderierte jahrzehntelang „Wetten, dass..?“?",
+   "answer": "Thomas Gottschalk",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 896,
+   "question": "In welcher Filmreihe heißt es „Möge die Macht mit dir sein“?",
+   "answer": "„Star Wars“",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 897,
+   "question": "Wie heißt der Schulleiter von Hogwarts in den ersten Harry-Potter-Filmen?",
+   "answer": "Albus Dumbledore",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 898,
+   "question": "Wie heißt Harry Potters Schneeeule?",
+   "answer": "Hedwig",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 899,
+   "question": "Wer spielte Captain Jack Sparrow in „Fluch der Karibik“?",
+   "answer": "Johnny Depp",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 900,
+   "question": "Wie viele Oscars gewann „Titanic“?",
+   "answer": "11",
+   "category": "Film & TV",
+   "difficulty": 3
+  },
+  {
+   "id": 901,
+   "question": "Welcher Fantasyfilm gewann 2004 ebenfalls 11 Oscars?",
+   "answer": "„Der Herr der Ringe: Die Rückkehr des Königs“",
+   "category": "Film & TV",
+   "difficulty": 3
+  },
+  {
+   "id": 902,
+   "question": "Welche Zeichentrickfigur ruft „Yabba Dabba Doo!“?",
+   "answer": "Fred Feuerstein",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 903,
+   "question": "Wer spielte Neo in „Matrix“?",
+   "answer": "Keanu Reeves",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 904,
+   "question": "Welcher Schauspieler spielte den „Terminator“?",
+   "answer": "Arnold Schwarzenegger",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 905,
+   "question": "Aus welchem Land stammt die Serie „Haus des Geldes“?",
+   "answer": "Spanien",
+   "category": "Film & TV",
+   "difficulty": 2
+  },
+  {
+   "id": 906,
+   "question": "Aus welchem Land stammt die Serie „Squid Game“?",
+   "answer": "Südkorea",
+   "category": "Film & TV",
+   "difficulty": 1
+  },
+  {
+   "id": 907,
+   "question": "Welches Studio produzierte mit „Toy Story“ den ersten komplett computeranimierten Kinofilm?",
+   "answer": "Pixar",
+   "category": "Film & TV",
+   "difficulty": 2
   }
  ],
  "pairs": [
@@ -3984,6 +6837,306 @@
    "topic": "Brot der Welt",
    "a": 499,
    "b": 500
+  },
+  {
+   "id": 71,
+   "topic": "US-Präsidenten",
+   "a": 507,
+   "b": 508
+  },
+  {
+   "id": 72,
+   "topic": "Mittelalter-Jahreszahlen",
+   "a": 501,
+   "b": 511
+  },
+  {
+   "id": 73,
+   "topic": "Große Seefahrer",
+   "a": 502,
+   "b": 525
+  },
+  {
+   "id": 74,
+   "topic": "Gewaltloser Widerstand",
+   "a": 516,
+   "b": 513
+  },
+  {
+   "id": 75,
+   "topic": "Elementsymbole",
+   "a": 531,
+   "b": 533
+  },
+  {
+   "id": 76,
+   "topic": "Physik-Einheiten II",
+   "a": 535,
+   "b": 536
+  },
+  {
+   "id": 77,
+   "topic": "Temperaturskalen",
+   "a": 551,
+   "b": 552
+  },
+  {
+   "id": 78,
+   "topic": "Messgeräte",
+   "a": 537,
+   "b": 538
+  },
+  {
+   "id": 79,
+   "topic": "Raumfahrt-Pioniere",
+   "a": 566,
+   "b": 567
+  },
+  {
+   "id": 80,
+   "topic": "Planetennamen",
+   "a": 571,
+   "b": 572
+  },
+  {
+   "id": 81,
+   "topic": "Rehe",
+   "a": 578,
+   "b": 597
+  },
+  {
+   "id": 82,
+   "topic": "Tiergeschlechter",
+   "a": 579,
+   "b": 580
+  },
+  {
+   "id": 83,
+   "topic": "Ernährungstypen",
+   "a": 589,
+   "b": 300
+  },
+  {
+   "id": 84,
+   "topic": "Gruselklassiker",
+   "a": 619,
+   "b": 620
+  },
+  {
+   "id": 85,
+   "topic": "Deutsche Dramen",
+   "a": 603,
+   "b": 604
+  },
+  {
+   "id": 86,
+   "topic": "Abenteuerromane",
+   "a": 607,
+   "b": 609
+  },
+  {
+   "id": 87,
+   "topic": "Romane des 19. Jahrhunderts",
+   "a": 610,
+   "b": 622
+  },
+  {
+   "id": 88,
+   "topic": "Komponisten-Geburtsorte",
+   "a": 625,
+   "b": 626
+  },
+  {
+   "id": 89,
+   "topic": "Herkunft von Bands",
+   "a": 643,
+   "b": 644
+  },
+  {
+   "id": 90,
+   "topic": "Musik-Fachbegriffe",
+   "a": 646,
+   "b": 647
+  },
+  {
+   "id": 91,
+   "topic": "Deutsche Hits",
+   "a": 637,
+   "b": 638
+  },
+  {
+   "id": 92,
+   "topic": "Landeshauptstädte Ost",
+   "a": 653,
+   "b": 654
+  },
+  {
+   "id": 93,
+   "topic": "Landeshauptstädte II",
+   "a": 656,
+   "b": 658
+  },
+  {
+   "id": 94,
+   "topic": "Sitz von Institutionen",
+   "a": 672,
+   "b": 673
+  },
+  {
+   "id": 95,
+   "topic": "Fachärzte",
+   "a": 684,
+   "b": 685
+  },
+  {
+   "id": 96,
+   "topic": "Blutzellen",
+   "a": 692,
+   "b": 693
+  },
+  {
+   "id": 97,
+   "topic": "Blutgruppen",
+   "a": 680,
+   "b": 79
+  },
+  {
+   "id": 98,
+   "topic": "Danke! II",
+   "a": 699,
+   "b": 700
+  },
+  {
+   "id": 99,
+   "topic": "Sprachbegriffe",
+   "a": 713,
+   "b": 714
+  },
+  {
+   "id": 100,
+   "topic": "Latein",
+   "a": 715,
+   "b": 716
+  },
+  {
+   "id": 101,
+   "topic": "Abkürzungen auf Einladungen",
+   "a": 710,
+   "b": 711
+  },
+  {
+   "id": 102,
+   "topic": "Kegeln & Bowling",
+   "a": 729,
+   "b": 730
+  },
+  {
+   "id": 103,
+   "topic": "Kampfsport-Herkunft",
+   "a": 734,
+   "b": 735
+  },
+  {
+   "id": 104,
+   "topic": "Spieldauer",
+   "a": 737,
+   "b": 738
+  },
+  {
+   "id": 105,
+   "topic": "Rechenbegriffe",
+   "a": 765,
+   "b": 766
+  },
+  {
+   "id": 106,
+   "topic": "Zeit umrechnen",
+   "a": 761,
+   "b": 762
+  },
+  {
+   "id": 107,
+   "topic": "Computer-Abkürzungen",
+   "a": 775,
+   "b": 776
+  },
+  {
+   "id": 108,
+   "topic": "Flugpioniere",
+   "a": 787,
+   "b": 788
+  },
+  {
+   "id": 109,
+   "topic": "Spielkonsolen",
+   "a": 781,
+   "b": 782
+  },
+  {
+   "id": 110,
+   "topic": "Berühmte Museen",
+   "a": 810,
+   "b": 811
+  },
+  {
+   "id": 111,
+   "topic": "Der Blaue Reiter",
+   "a": 805,
+   "b": 806
+  },
+  {
+   "id": 112,
+   "topic": "Spirituosen",
+   "a": 828,
+   "b": 831
+  },
+  {
+   "id": 113,
+   "topic": "Süße Städte",
+   "a": 839,
+   "b": 840
+  },
+  {
+   "id": 114,
+   "topic": "Suppen Europas",
+   "a": 846,
+   "b": 843
+  },
+  {
+   "id": 115,
+   "topic": "Toy Story",
+   "a": 877,
+   "b": 878
+  },
+  {
+   "id": 116,
+   "topic": "Superhelden",
+   "a": 881,
+   "b": 882
+  },
+  {
+   "id": 117,
+   "topic": "Regie-Legenden",
+   "a": 883,
+   "b": 884
+  },
+  {
+   "id": 118,
+   "topic": "Filmpreise",
+   "a": 891,
+   "b": 892
+  },
+  {
+   "id": 119,
+   "topic": "Oscar-Rekorde",
+   "a": 900,
+   "b": 901
+  },
+  {
+   "id": 120,
+   "topic": "Serien-Herkunft",
+   "a": 905,
+   "b": 906
   }
  ]
 }
